@@ -6,7 +6,7 @@ $(document).ready(function(){
 
  function load(data){
   
-  data.forEach(model => populate);
+  data.forEach(model => populate(model));
   $('.table').bootstrapTable('hideLoading');
   $('.table').bootstrapTable('load',arrows);
  }
