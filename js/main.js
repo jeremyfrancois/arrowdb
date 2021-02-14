@@ -15,7 +15,7 @@ $(document).ready(function(){
   
   model.specs.forEach(function(spec){
    let arrow = {};
-  $.extend(arrow,model,s);
+  $.extend(arrow,model,spec);
    arrows.push(arrow);
   });
  }
