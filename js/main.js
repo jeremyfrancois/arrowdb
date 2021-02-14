@@ -12,6 +12,11 @@ $(document).ready(function(){
  }
 
  function populate(model){
-  model.specs.forEach(s => arrows.push($.extend({},model,s)));
+  
+  model.specs.forEach(function(spec){
+   let arrow = {};
+  $.extend(arrow,model,s);
+   arrows.push(arrow);
+  });
  }
 });
