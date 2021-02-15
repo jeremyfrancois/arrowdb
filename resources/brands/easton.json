@@ -1,0 +1,719 @@
+[
+    {
+        "model" : "Full Metal Jacket 4MM",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/4mm-fmj/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 12.3,
+                "outer_diameter" : 0.247,
+                "length" : 33
+            },
+            {
+                "spine" : 300,
+                "weight" : 11.7,
+                "outer_diameter" : 0.244,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 11.0,
+                "outer_diameter" : 0.240,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.8,
+                "outer_diameter" : 0.234,
+                "length" : 31.5
+            }
+        ],
+        "inner_diameter" : 0.157,
+        "straightness" : [0.003,0.001],
+        "insert" : 50,
+        "nock" : 6,
+        "color" : "black"
+    },
+    {
+        "model" : "Full Metal Jacket 5MM",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/5mm-full-metal-jacket/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 11.5,
+                "outer_diameter" : 0.290,
+                "length" : 33
+            },
+            {
+                "spine" : 300,
+                "weight" : 12,
+                "outer_diameter" : 0.273,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 11.3,
+                "outer_diameter" : 0.269,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.2,
+                "outer_diameter" : 0.263,
+                "length" : 31.5
+            },
+            {
+                "spine" : 500,
+                "weight" : 9.1,
+                "outer_diameter" : 0.256,
+                "length" : 31.5
+            }
+        ],
+        "inner_diameter" : 0.197,
+        "straightness" : [0.001],
+        "insert" : 25,
+        "nock" : 7,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Full Metal Jacket Taper 64",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/t64/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 310,
+                "weight" : 13.3,
+                "outer_diameter" : 0.273,
+                "length" : 32
+            },
+            {
+                "spine" : 375,
+                "weight" : 12.2,
+                "outer_diameter" : 0.263,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.157,
+        "straightness" : [0.003],
+        "insert" : 18,
+        "nock" : 6,
+        "weight_tolerance" : 2,
+        "color" : "green / white"
+    },
+    {
+        "model" : "Full Metal Jacket 6MM",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6mm-full-metal-jacket/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 320,
+                "weight" : 10.6,
+                "outer_diameter" : 0.287,
+                "length" : 32
+            },
+            {
+                "spine" : 390,
+                "weight" : 9.7,
+                "outer_diameter" : 0.281,
+                "length" : 31.5
+            },
+            {
+                "spine" : 470,
+                "weight" : 8.8,
+                "outer_diameter" : 0.277,
+                "length" : 31.5
+            }
+        ],
+        "inner_diameter" : 0.236,
+        "straightness" : [0.003],
+        "insert" : 18,
+        "nock" : 10,
+        "weight_tolerance" : 2,
+        "color" : "white / grey"
+    },
+    {
+        "model" : "Axis 4mm",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/4mm-axis-long-range/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.244,
+                "length" : 33
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.241,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.3,
+                "outer_diameter" : 0.234,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.229,
+                "length" : 31.5
+            }
+        ],
+        "inner_diameter" : 0.157,
+        "straightness" : [0.003,0.001],
+        "insert" : 50,
+        "nock" : 6,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Axis 5mm",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/5mm-axis-carbon-arrows/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 260,
+                "weight" : 11.5,
+                "straightness" : [0.001,0.003,0.006],
+                "outer_diameter" : 0.280,
+                "length" : 34
+            },
+            {
+                "spine" : 300,
+                "weight" : 10.7,
+                "straightness" : [0.001,0.003,0.006],
+                "outer_diameter" : 0.275,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.5,
+                "straightness" : [0.001,0.003,0.006],
+                "outer_diameter" : 0.267,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.0,
+                "straightness" : [0.001,0.003,0.006],
+                "outer_diameter" : 0.264,
+                "length" : 31.5
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "straightness" : [0.003,0.006],
+                "outer_diameter" : 0.256,
+                "length" : 31
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "straightness" : [0.003,0.006],
+                "outer_diameter" : 0.253,
+                "length" : 30.5
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.1,
+                "straightness" : [0.003,0.006],
+                "outer_diameter" : 0.245,
+                "length" : 31.5
+            }
+        ],
+        "inner_diameter" : 0.197,
+        "insert" : 16,
+        "nock" : 9,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Axis Traditional",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/5mm-axis-traditional/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 10.3,
+                "outer_diameter" : 0.267,
+                "length" : 33
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.8,
+                "outer_diameter" : 0.264,
+                "length" : 32.75
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.9,
+                "outer_diameter" : 0.256,
+                "length" : 32.5
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.9,
+                "outer_diameter" : 0.253,
+                "length" : 32.25
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.8,
+                "outer_diameter" : 0.245,
+                "length" : 31.5
+            }
+        ],
+        "straightness" : [0.003],
+        "inner_diameter" : 0.197,
+        "weight_tolerance" : 2,
+        "insert" : 16,
+        "nock" : 9,
+        "color" : "wood"
+    },
+    {
+        "model" : "Matrix",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6-5-matrix/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.4,
+                "outer_diameter" : 0.302,
+                "length" : 32.5
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.9,
+                "outer_diameter" : 0.299,
+                "length" : 32.25
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.1,
+                "outer_diameter" : 0.295,
+                "length" : 31.75
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.290,
+                "length" : 31.25
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.8,
+                "outer_diameter" : 0.288,
+                "length" : 30.75
+            }
+        ],
+        "straightness" : [0.003],
+        "inner_diameter" : 0.256,
+        "insert" : 23,
+        "nock" : 8,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "6.5 ACU",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6-5mm-acu-carbon-bowhunter/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.0,
+                "outer_diameter" : 0.301,
+                "length" : 32.5
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "outer_diameter" : 0.300,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.3,
+                "outer_diameter" : 0.298,
+                "length" : 31.5
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.4,
+                "outer_diameter" : 0.294,
+                "length" : 31
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "outer_diameter" : 0.287,
+                "length" : 30.5
+            }
+        ],
+        "straightness" : [0.001,0.003,0.006],
+        "inner_diameter" : 0.256,
+        "insert" : 21,
+        "nock" : 8,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "6.5 Whiteout",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6-5-whiteout/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.6,
+                "outer_diameter" : 0.301,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.8,
+                "outer_diameter" : 0.298,
+                "length" : 31.75
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.294,
+                "length" : 31.25
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.5,
+                "outer_diameter" : 0.229,
+                "length" : 30.75
+            }
+        ],
+        "straightness" : [0.003],
+        "inner_diameter" : 0.256,
+        "insert" : 21,
+        "nock" : 8,
+        "weight_tolerance" : 2,
+        "color" : "white"
+    },
+    {
+        "model" : "Carbon Legacy",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/carbon-legacy/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 10.1,
+                "outer_diameter" : 0.307
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.3,
+                "outer_diameter" : 0.301
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.3,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.5,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 700,
+                "weight" : 7.1,
+                "outer_diameter" : 0.289
+            }
+        ],
+        "length" : 34,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.256,
+        "weight_tolerance" : 2,
+        "nock" : 13,
+        "insert" : 13,
+        "color" : "wood / white"
+    },
+    {
+        "model" : "X10",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/x10/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 325,
+                "weight" : 9.2,
+                "length" : 34.25,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.8,
+                "length" : 34,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 380,
+                "weight" : 8.9,
+                "length" : 33.75,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 410,
+                "weight" : 8.5,
+                "length" : 33.75,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.1,
+                "length" : 33.5,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.8,
+                "length" : 32,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.5,
+                "length" : 31,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.0,
+                "length" : 30,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.8,
+                "length" : 29,
+                "outer_diameter" : 0.195
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.7,
+                "length" : 29,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 750,
+                "weight" : 6.4,
+                "length" : 29,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 830,
+                "weight" : 6.2,
+                "length" : 28.5,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.8,
+                "length" : 28,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.3,
+                "length" : 28,
+                "outer_diameter" : 0.176
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "X10 Protour",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/x10-protour/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 8.8,
+                "length" : 34,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 380,
+                "weight" : 8.4,
+                "length" : 34,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 420,
+                "weight" : 8.0,
+                "length" : 33.75,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 470,
+                "weight" : 7.6,
+                "length" : 33.75,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 520,
+                "weight" : 7.3,
+                "length" : 32,
+                "outer_diameter" : 0.194
+            },
+            {
+                "spine" : 570,
+                "weight" : 6.9,
+                "length" : 31,
+                "outer_diameter" : 0.191
+            },
+            {
+                "spine" : 620,
+                "weight" : 6.7,
+                "length" : 30,
+                "outer_diameter" : 0.188
+            },
+            {
+                "spine" : 670,
+                "weight" : 6.5,
+                "length" : 29.75,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 720,
+                "weight" : 6.2,
+                "length" : 29.75,
+                "outer_diameter" : 0.183
+            },
+            {
+                "spine" : 770,
+                "weight" : 6.0,
+                "length" : 29,
+                "outer_diameter" : 0.181
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "A/C/E",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/a-c-e/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 370,
+                "weight" : 7.9,
+                "length" : 32.625,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.5,
+                "length" : 32.625,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 430,
+                "weight" : 7.0,
+                "length" : 32.625,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 470,
+                "weight" : 6.8,
+                "length" : 32.625,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 520,
+                "weight" : 6.7,
+                "length" : 31.625,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 570,
+                "weight" : 6.3,
+                "length" : 31.625,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 620,
+                "weight" : 6.1,
+                "length" : 30.625,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 670,
+                "weight" : 5.9,
+                "length" : 30.625,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 720,
+                "weight" : 6.4,
+                "length" : 29.625,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 780,
+                "weight" : 6.0,
+                "length" : 29.625,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 850,
+                "weight" : 5.7,
+                "length" : 28.625,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 920,
+                "weight" : 5.8,
+                "length" : 28.625,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.7,
+                "length" : 28.625,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1100,
+                "weight" : 5.1,
+                "length" : 28.625,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1250,
+                "weight" : 5.1,
+                "length" : 26.625,
+                "outer_diameter" : 0.205
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.166,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    }
+]

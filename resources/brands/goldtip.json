@@ -1,0 +1,1204 @@
+[
+    {
+        "model" : "Airstrike",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/AirStrike/AirStrike.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.6,
+                "outer_diameter" : 0.269
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.5,
+                "outer_diameter" : 0.262
+            },
+            {
+                "spine" : 340,
+                "weight" : 7.8,
+                "outer_diameter" : 0.258
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "outer_diameter" : 0.254
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001],
+        "nock" : 11.6,
+        "weight_tolerance" : 0.5,
+        "color" : "gray"
+    },
+    {
+        "model" : "Black Label",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Black-Label/Black-Label.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.302
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.0025],
+        "insert" : 12.1,
+        "nock" : 12.2,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Black Label Quantum",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Black-Label/Black-Label-Quantum.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.3,
+                "outer_diameter" : 0.2680
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.3,
+                "outer_diameter" : 0.2605
+            },
+            {
+                "spine" : 340,
+                "weight" : 7.7,
+                "outer_diameter" : 0.2570
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.0,
+                "outer_diameter" : 0.2525
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.0025],
+        "nock" : 11.6,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Kinetic Kaos",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Kinetic-Series/Kinetic-KAOS.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 200,
+                "weight" : 11.6,
+                "outer_diameter" : 0.282,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 10.4,
+                "outer_diameter" : 0.274,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.9,
+                "outer_diameter" : 0.272,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "outer_diameter" : 0.270,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "outer_diameter" : 0.258,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "straightness" : [0.0025],
+        "nock" : 12.6,
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Kinetic",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Kinetic-Series/Kinetic.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 200,
+                "weight" : 11.6,
+                "outer_diameter" : 0.282,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 10.4,
+                "outer_diameter" : 0.274,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.9,
+                "outer_diameter" : 0.272,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "outer_diameter" : 0.270,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "outer_diameter" : 0.258,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "straightness" : [0.006],
+        "nock" : 11.6,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Kinetic Pierce Tour",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Pierce-Tour/P01380.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.245,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.1,
+                "outer_diameter" : 0.240,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.3,
+                "outer_diameter" : 0.234,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.6,
+                "outer_diameter" : 0.229,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.6,
+                "outer_diameter" : 0.222,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.2,
+                "outer_diameter" : 0.219,
+                "length" : 30
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.5,
+                "outer_diameter" : 0.213,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Kinetic Pierce Platinum",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Kinetic-Series/Kinetic-Pierce-Platinum.aspx",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.245,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.1,
+                "outer_diameter" : 0.240,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.3,
+                "outer_diameter" : 0.234,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.6,
+                "outer_diameter" : 0.229,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.6,
+                "outer_diameter" : 0.222,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.166,
+        "straightness" : [0.0025],
+        "nock" : 8,
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Kinetic Pierce",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Kinetic-Series/Kinetic-Pierce.aspx",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.245,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.1,
+                "outer_diameter" : 0.240,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.3,
+                "outer_diameter" : 0.234,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.6,
+                "outer_diameter" : 0.229,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.6,
+                "outer_diameter" : 0.222,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "nock" : 5.3,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Hunter Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Hunter-Series/Hunter-PRO.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.302,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "outer_diameter" : 0.300,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "outer_diameter" : 0.291,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.001],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Hunter Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Hunter-Series/Hunter-XT.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 240,
+                "weight" : 10.6,
+                "outer_diameter" : 0.309,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.302,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "outer_diameter" : 0.300,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "outer_diameter" : 0.291,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Hunter",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Hunter-Series/Hunter.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.302,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "outer_diameter" : 0.300,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "outer_diameter" : 0.291,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Velocity Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Velocity-Series/Velocity-PRO.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.001],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Velocity XT",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Velocity-Series/Velocity-XT.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Velocity",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Velocity-Series/Velocity.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Velocity Valkyrie XT",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Velocity-Series/Velocity-Valkyrie-XT.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Velocity Valkyrie",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Velocity-Series/Velocity-Valkyrie.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Nugent",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Specialty-Series/Nugent.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.8,
+                "outer_diameter" : 0.313,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.3,
+                "outer_diameter" : 0.301,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.4,
+                "outer_diameter" : 0.297,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "white"
+    },
+    {
+        "model" : "Twister Flu Flu",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Specialty-Series/Twister-Flu-Flu.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.4,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "outer_diameter" : 0.270
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "outer_diameter" : 0.258
+            }
+        ],
+        "length" : 30,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Traditional Classic XT",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Traditional-Series/Traditional-Classic-XT.aspx",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 12,
+                "outer_diameter" : 0.286,
+                "insert" : 13.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 11.3,
+                "outer_diameter" : 0.282,
+                "insert" : 15
+            },
+            {
+                "spine" : 500,
+                "weight" : 10.2,
+                "outer_diameter" : 0.276,
+                "insert" : 9.2
+            },
+            {
+                "spine" : 600,
+                "weight" : 9.1,
+                "outer_diameter" : 0.220,
+                "insert" : 11.1
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Traditional Classic",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Traditional-Series/Traditional-Classic.aspx",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 12,
+                "outer_diameter" : 0.286,
+                "insert" : 13.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 11.3,
+                "outer_diameter" : 0.282,
+                "insert" : 15
+            },
+            {
+                "spine" : 500,
+                "weight" : 10.2,
+                "outer_diameter" : 0.276,
+                "insert" : 9.2
+            },
+            {
+                "spine" : 600,
+                "weight" : 9.1,
+                "outer_diameter" : 0.220,
+                "insert" : 11.1
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Traditional XT",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Traditional-Series/Traditional-XT.aspx",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 10.5,
+                "length" : 32,
+                "outer_diameter" : 0.308
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.3,
+                "length" : 32,
+                "outer_diameter" : 0.302
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.6,
+                "length" : 30,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.8,
+                "length" : 30,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Traditional",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Hunting/Traditional-Series/Traditional.aspx",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 10.5,
+                "length" : 32,
+                "outer_diameter" : 0.308
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.3,
+                "length" : 32,
+                "outer_diameter" : 0.302
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.6,
+                "length" : 30,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.8,
+                "length" : 30,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "nock" : 12.2,
+        "insert" : 12.1,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Ultralight Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Ultralight-Series/Ultralight-PRO-Shafts.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.4,
+                "outer_diameter" : 0.280,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Ultralight",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Ultralight-Series/Ultralight-Shafts.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.4,
+                "outer_diameter" : 0.280,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Ultralight Entrada",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Ultralight-Series/Ultralight-Entrada.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.299,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.2,
+                "outer_diameter" : 0.296,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.291,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.285,
+                "length" : 30
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.283,
+                "length" : 30
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.4,
+                "outer_diameter" : 0.280,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Series 22 Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Series-22/22-Series-Pro.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 7.3,
+                "outer_diameter" : 0.338,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.300,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Series 22 Plus",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Series-22/22-Series.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 7.3,
+                "outer_diameter" : 0.338,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.300,
+        "straightness" : [0.005],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Nine.3 Max",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Nine-3-Max/Nine-3-Max.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.3,
+                "outer_diameter" : 0.365,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.325,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Nine.3 Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Nine-3-Max/Nine-3-Pro.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.3,
+                "outer_diameter" : 0.365,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.325,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "X-Cutter Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/X-Cutter-Series/X-Cutter-Pro.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 7.8,
+                "outer_diameter" : 0.380,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.345,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "X-Cutter Plus",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/X-Cutter-Series/X-Cutter-Plus.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 7.8,
+                "outer_diameter" : 0.380,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.345,
+        "straightness" : [0.005],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "30X Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/30X-Series/30X-Pro.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 150,
+                "weight" : 8.5,
+                "outer_diameter" : 0.399,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.360,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "30X Plus",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/30X-Series/30X.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 150,
+                "weight" : 8.5,
+                "outer_diameter" : 0.399,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.360,
+        "straightness" : [0.005],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Triple X Pro",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Triple-X-Series/Triple-X-Pro.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 100,
+                "weight" : 9.3,
+                "outer_diameter" : 0.421,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.383,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    },
+    {
+        "model" : "Triple X Plus",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/Target/Triple-X-Series/Triple-X.aspx",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 100,
+                "weight" : 9.3,
+                "outer_diameter" : 0.421,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.383,
+        "straightness" : [0.001],
+        "weight_tolerance" : 0.5,
+        "color" : "black"
+    }
+]
