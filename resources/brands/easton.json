@@ -1099,5 +1099,5 @@
         "straightness" : [0.005,0.002],
         "weight_tolerance" : 0.5,
         "color" : "black carbon"
-    },
+    }
 ]
