@@ -715,5 +715,389 @@
         "inner_diameter" : 0.166,
         "weight_tolerance" : 0.5,
         "color" : "black carbon"
-    }
+    },
+    {
+        "model" : "Procomp",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/procomp/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.8,
+                "length" : 34,
+                "outer_diameter" : 0.245
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "length" : 33.625,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "length" : 33.625,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 380,
+                "weight" : 8.3,
+                "length" : 32.625,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 420,
+                "weight" : 7.8,
+                "length" : 32.625,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 470,
+                "weight" : 7.3,
+                "length" : 32.625,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 520,
+                "weight" : 7.0,
+                "length" : 31.625,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 570,
+                "weight" : 6.6,
+                "length" : 31.625,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 610,
+                "weight" : 7.3,
+                "length" : 31,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 660,
+                "weight" : 6.9,
+                "length" : 32.625,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 710,
+                "weight" : 6.5,
+                "length" : 30.5,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 810,
+                "weight" : 6.1,
+                "length" : 30,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 880,
+                "weight" : 5.9,
+                "length" : 29.5,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.5,
+                "length" : 29,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 1150,
+                "weight" : 5.5,
+                "length" : 28.5,
+                "outer_diameter" : 0.203
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.157,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Avance",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/avance-avance-sport/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 8.8,
+                "length" : 32.5,
+                "outer_diameter" : 0.240
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.9,
+                "length" : 32.09,
+                "outer_diameter" : 0.234
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.4,
+                "length" : 31.88,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.9,
+                "length" : 31.5,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.5,
+                "length" : 31.09,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.5,
+                "length" : 30.72,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 660,
+                "weight" : 6.2,
+                "length" : 30.31,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 730,
+                "weight" : 5.7,
+                "length" : 29.72,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 810,
+                "weight" : 5.5,
+                "length" : 29.13,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.2,
+                "length" : 28.75,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.9,
+                "length" : 28.34,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1150,
+                "weight" : 4.9,
+                "length" : 28.16,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 1400,
+                "weight" : 4.2,
+                "length" : 29,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1600,
+                "weight" : 3.8,
+                "length" : 28.75,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.6,
+                "length" : 28.5,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 2000,
+                "weight" : 3.4,
+                "length" : 28.25,
+                "outer_diameter" : 0.198
+            }
+        ],
+        "straightness" : [0.003,0.006],
+        "inner_diameter" : 0.157,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Inspire",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/inspire/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 570,
+                "weight" : 8.2,
+                "length" : 31.5,
+                "inner_diameter" : 0.197,
+                "outer_diameter" : 0.256
+            },
+            {
+                "spine" : 630,
+                "weight" : 7.9,
+                "length" : 30.5,
+                "inner_diameter" : 0.197,
+                "outer_diameter" : 0.254
+            },
+            {
+                "spine" : 750,
+                "weight" : 8.1,
+                "length" : 29.5,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 900,
+                "weight" : 7.7,
+                "length" : 28.5,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 1000,
+                "weight" : 7.2,
+                "length" : 27.5,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 1200,
+                "weight" : 7.2,
+                "length" : 27.25,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 1400,
+                "weight" : 4.2,
+                "length" : 29,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1600,
+                "weight" : 3.8,
+                "length" : 28.75,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.6,
+                "length" : 28.5,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 2000,
+                "weight" : 3.4,
+                "length" : 28.25,
+                "inner_diameter" : 0.157,
+                "outer_diameter" : 0.198
+            }
+        ],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Superdrive 19",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/superdrive-19/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 8.4,
+                "length" : 33.5,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 380,
+                "weight" : 7.8,
+                "length" : 32.5,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 460,
+                "weight" : 7.0,
+                "length" : 31.5,
+                "outer_diameter" : 0.273
+            }
+        ],
+        "straightness" : [0.002],
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Superdrive 23",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/superdrive-23/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 325,
+                "weight" : 7.4,
+                "length" : 33.25,
+                "outer_diameter" : 0.361
+            },
+            {
+                "spine" : 375,
+                "weight" : 6.9,
+                "length" : 32,
+                "outer_diameter" : 0.359
+            },
+            {
+                "spine" : 475,
+                "weight" : 6.4,
+                "length" : 31.5,
+                "outer_diameter" : 0.356
+            }
+        ],
+        "nock" : 20,
+        "straightness" : [0.002],
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Superdrive 25",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/superdrive-25/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 290,
+                "weight" : 7.8,
+                "length" : 32,
+                "outer_diameter" : 0.396
+            }
+        ],
+        "nock" : 23,
+        "straightness" : [0.002],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Superdrive 27",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/superdrive-25/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 270,
+                "weight" : 9.0,
+                "length" : 32.125,
+                "outer_diameter" : 0.420
+            }
+        ],
+        "nock" : 25,
+        "straightness" : [0.005,0.002],
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
 ]
