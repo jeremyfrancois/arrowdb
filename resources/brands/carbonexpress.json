@@ -98,5 +98,135 @@
         "straightness" : [0.003],
         "weight_tolerance" : 1,
         "color" : "black carbon"
+    },
+    {
+        "model" : "D-Stroyer MX Hunter",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer-mx-hunter/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.7
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.0
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.002],
+        "weight_tolerance" : 1,
+        "color" : "black carbon / camo"
+    },
+    {
+        "model" : "D-Stroyer SD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer-sd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 11.4
+            },
+            {
+                "spine" : 350,
+                "weight" : 10.3
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.4
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "D-Stroyer",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.9
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.0
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Triad",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-triad/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.9
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.0
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "nock" : 10,
+        "straightness" : [0.002],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima XRZ Select",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-xrz-select/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 150,
+                "weight" : 6.6
+            },
+            {
+                "spine" : 250,
+                "weight" : 7.5
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.4
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "nock" : 10,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
     }
 ]
