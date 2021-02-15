@@ -682,5 +682,40 @@
         "straightness" : [0.006],
         "nock" : 9,
         "color" : "black carbon"
+    },
+    {
+        "model" : "Grizzlystik Momentum TDT",
+        "maker" : "Victory",
+        "link" : "https://www.grizzlystik.com/Momentum-TDT-Shafts-C99.aspx",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 170,
+                "weight" : 14.81,
+                "outer_diameter" : 0.368
+            },
+            {
+                "spine" : 240,
+                "weight" : 11.52,
+                "outer_diameter" : 0.347
+            },
+            {
+                "spine" : 320,
+                "weight" : 10.42,
+                "outer_diameter" : 0.343
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.81,
+                "outer_diameter" : 0.252
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001],
+        "insert" : 70,
+        "nock" : 7,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
     }
 ]

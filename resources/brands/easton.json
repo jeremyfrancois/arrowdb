@@ -1099,5 +1099,150 @@
         "straightness" : [0.005,0.002],
         "weight_tolerance" : 0.5,
         "color" : "black carbon"
+    },
+    {
+        "model" : "Aftermath",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6mm-aftermath/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.2,
+                "length" : 32.25,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.6,
+                "length" : 31.75,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.8,
+                "length" : 31.25,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "length" : 30.75,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.4,
+                "length" : 30.75,
+                "outer_diameter" : 0.269
+            }
+        ],
+        "nock" : 10,
+        "insert" : 18,
+        "straightness" : [0.005],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Gamegetter",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/gamegetter/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 13.3,
+                "length" : 32,
+                "outer_diameter" : 0.369
+            },
+            {
+                "spine" : 340,
+                "weight" : 11.7,
+                "length" : 32,
+                "outer_diameter" : 0.365
+            },
+            {
+                "spine" : 400,
+                "weight" : 12,
+                "length" : 31.5,
+                "outer_diameter" : 0.334
+            },
+            {
+                "spine" : 500,
+                "weight" : 10.6,
+                "length" : 32,
+                "outer_diameter" : 0.312
+            }
+        ],
+        "inner_diameter" : 0.256,
+        "nock" : 10,
+        "insert" : 18,
+        "straightness" : [0.003],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Hexx",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6mm-hexx-2/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 260,
+                "weight" : 9.3,
+                "length" : 32,
+                "outer_diameter" : 0.288
+            },
+            {
+                "spine" : 330,
+                "weight" : 7.9,
+                "length" : 31.5,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "length" : 31,
+                "outer_diameter" : 0.276
+            }
+        ],
+        "inner_diameter" : 0.236,
+        "nock" : 10,
+        "insert" : 9,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "gray / black"
+    },
+    {
+        "model" : "Bloodline",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/6mm-bloodline-2/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 240,
+                "weight" : 9.4,
+                "length" : 32,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 330,
+                "weight" : 8.7,
+                "length" : 31.5,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.7,
+                "length" : 31,
+                "outer_diameter" : 0.280
+            }
+        ],
+        "inner_diameter" : 0.236,
+        "nock" : 10,
+        "insert" : 18,
+        "straightness" : [0.003],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
     }
 ]

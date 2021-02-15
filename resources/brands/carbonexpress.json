@@ -1,0 +1,102 @@
+[    
+    {
+        "model" : "D-Stroyer PileDRIVER",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer-piledriver/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 282,
+                "weight" : 12.8
+            },
+            {
+                "spine" : 339,
+                "weight" : 11.0
+            },
+            {
+                "spine" : 401,
+                "weight" : 10.1
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Red Contour",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-red-contour/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 342,
+                "weight" : 9.1,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 417,
+                "weight" : 8.1,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Red SD Contour",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-red-sd-contour-203/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 344,
+                "weight" : 9.7,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 404,
+                "weight" : 8.7,
+                "outer_diameter" : 0.264
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Predator SD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/predator-sd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 11.5
+            },
+            {
+                "spine" : 350,
+                "weight" : 10.3
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.4
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    }
+]
