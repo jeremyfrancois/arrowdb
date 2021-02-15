@@ -22,7 +22,7 @@ $(document).ready(function(){
         model.specs.forEach(spec => {
             let arrow = {};
             $.extend(arrow,model,spec);
-            $table.bootstrapTable('append' [arrow]);
+            $table.bootstrapTable('append', [arrow]);
         });
     }
 });
