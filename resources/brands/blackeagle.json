@@ -1,0 +1,757 @@
+[
+    {
+        "model" : "X-IMPACT",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/X-Impact-Micro-Diameter-Carbon-Target-Arrow-Shafts-p/ximpact-shafts.htm",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 11,
+                "outer_diameter" : 0.256
+            },
+            {
+                "spine" : 250,
+                "weight" : 9.5,
+                "outer_diameter" : 0.240
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.1,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.4,
+                "outer_diameter" : 0.228
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.7,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.8,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.9,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.9,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.4,
+                "outer_diameter" : 0.210
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.1,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.2,
+                "outer_diameter" : 0.210
+            },
+            {
+                "spine" : 1100,
+                "weight" : 5.4,
+                "outer_diameter" : 0.214
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.001],
+        "insert" : 50,
+        "nock" : 8,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Zombie Slayer",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/zomb-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.2,
+                "outer_diameter" : 0.298
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.0,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.5,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.7,
+                "outer_diameter" : 0.281
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.2445,
+        "straightness" : [0.001,0.003],
+        "insert" : 14,
+        "nock" : 8,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Spartan",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Spartan-Shafts-p/spart-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 200,
+                "weight" : 11.6,
+                "outer_diameter" : 0.297
+            },{
+                "spine" : 250,
+                "weight" : 10,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.0,
+                "outer_diameter" : 0.282
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.0,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.4,
+                "outer_diameter" : 0.268
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.224,
+        "straightness" : [0.001,0.003],
+        "insert" : 26,
+        "nock" : 19,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Deep Impact",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/di-shafts.htm",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 11,
+                "outer_diameter" : 0.248,
+                "straightness" : [0.001,0.003],
+                "insert" : 50
+            },
+            {
+                "spine" : 350,
+                "weight" : 9.6,
+                "outer_diameter" : 0.240,
+                "straightness" : [0.001,0.003],
+                "insert" : 50
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.6,
+                "outer_diameter" : 0.233,
+                "straightness" : [0.001,0.003],
+                "insert" : 50
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "outer_diameter" : 0.228,
+                "straightness" : [0.001,0.003],
+                "insert" : 50
+            },
+            {
+                "spine" : 600,
+                "weight" : 7,
+                "outer_diameter" : 0.223,
+                "straightness" : [0.001]
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.3,
+                "outer_diameter" : 0.218,
+                "straightness" : [0.001]
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.8,
+                "outer_diameter" : 0.213,
+                "straightness" : [0.001]
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.2,
+                "outer_diameter" : 0.209,
+                "straightness" : [0.001]
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "nock" : 8,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Carnivore",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/carn-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.7,
+                "outer_diameter" : 0.303
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.5,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.5,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.8,
+                "outer_diameter" : 0.287
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.2445,
+        "straightness" : [0.001,0.003],
+        "insert" : 14,
+        "nock" : 8,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Carnivore Ultralight",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/carn-30-50-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : "30#-50#",
+                "weight" : 5.9,
+                "outer_diameter" : 0.281
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.2445,
+        "straightness" : [0.001],
+        "insert" : 14,
+        "nock" : 11,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Rampage",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Rampage-Shafts-p/ramp-shaft.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 150,
+                "weight" : 16,
+                "outer_diameter" : 0.307
+            },{
+                "spine" : 250,
+                "weight" : 10.7,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.7,
+                "outer_diameter" : 0.264
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.2,
+                "outer_diameter" : 0.261
+            },
+            {
+                "spine" : 400,
+                "weight" : 7,
+                "outer_diameter" : 0.253
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003],
+        "insert" : 51,
+        "nock" : 10,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Outlaw",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Outlaw-Shafts-p/outl-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.1,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.6,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.294
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.4,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.8,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.1,
+                "outer_diameter" : 0.275
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.2445,
+        "straightness" : [0.005],
+        "insert" : 14,
+        "nock" : 10,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Renegade",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Renegade-Shafts-p/rene-shafts.htm",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.8,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 300,
+                "weight" : 10,
+                "outer_diameter" : 0.275
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.267
+            },
+            {
+                "spine" : 400,
+                "weight" : 8,
+                "outer_diameter" : 0.263
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.005],
+        "insert" : 51,
+        "nock" : 10,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Revelation",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/revelation-shafts.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.2,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 350,
+                "weight" : 9,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.5,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 500,
+                "weight" : 7,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.5,
+                "outer_diameter" : 0.193
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.3,
+                "outer_diameter" : 0.191
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.0,
+                "outer_diameter" : 0.189
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.8,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.6,
+                "outer_diameter" : 0.185
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.3,
+                "outer_diameter" : 0.183
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.125,
+        "straightness" : [0.001],
+        "nock" : 10,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Intrepid",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/intrepid-5-dozen-shafts.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.3,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.1,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.4,
+                "outer_diameter" : 0.222
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.0,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.3,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.1,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.8,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1200,
+                "weight" : 5.1,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.9,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1400,
+                "weight" : 4.8,
+                "outer_diameter" : 0.208
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.006],
+        "nock" : 4,
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "PS23",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/ps23.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.0,
+                "outer_diameter" : 0.360
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.2,
+                "outer_diameter" : 0.356
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.9,
+                "outer_diameter" : 0.354
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.353
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.1,
+                "outer_diameter" : 0.349
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.315,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "PS26",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/ps26.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.6,
+                "outer_diameter" : 0.410
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.408
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.5,
+                "outer_diameter" : 0.406
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.404
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.370,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "PS27",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/ps27.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.6,
+                "outer_diameter" : 0.420
+            },
+            {
+                "spine" : 350,
+                "weight" : 9.4,
+                "outer_diameter" : 0.417
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.380,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Challenger",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/chal-shafts.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.6,
+                "outer_diameter" : 0.356
+            },
+            {
+                "spine" : 300,
+                "weight" : 7.9,
+                "outer_diameter" : 0.353
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.4,
+                "outer_diameter" : 0.351
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.9,
+                "outer_diameter" : 0.349
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.315,
+        "straightness" : [0.001,0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    }, 
+    {
+        "model" : "Magnum",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/product-p/magn-shafts.htm",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.2,
+                "outer_diameter" : 0.419
+            },
+            {
+                "spine" : 300,
+                "weight" : 7.9,
+                "outer_diameter" : 0.417
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.6,
+                "outer_diameter" : 0.415
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.386,
+        "straightness" : [0.001,0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Instinct",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Vintage-Traditional-Shafts-p/instinct-traditional-shafts.htm",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.6,
+                "outer_diameter" : 0.248
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.4,
+                "outer_diameter" : 0.240
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.8,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.9,
+                "outer_diameter" : 0.231
+            }
+        ],
+        "length" : 34,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.005],
+        "nock" : 6,
+        "insert" : 100,
+        "weight_tolerance" : 1,
+        "color" : "wood"
+    },
+    {
+        "model" : "Vintage",
+        "maker" : "Black Eagle",
+        "link" : "https://www.blackeaglearrows.com/Vintage-Traditional-Shafts-p/vintage-traditional-shafts.htm",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.8,
+                "outer_diameter" : 0.303
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.2,
+                "outer_diameter" : 0.301
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.5,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.9,
+                "outer_diameter" : 0.293
+            }
+        ],
+        "length" : 34,
+        "insert" : 14,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.005],
+        "nock" : 8,
+        "weight_tolerance" : 1,
+        "color" : "wood"
+    }
+]

@@ -1,0 +1,686 @@
+[
+    {
+        "model" : "VAP SS",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vap-ss/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.8,
+                "outer_diameter" : 0.247
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.9,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.8,
+                "outer_diameter" : 0.234
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.6,
+                "outer_diameter" : 0.232
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 50,
+        "nock" : 8,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "VAP TKO",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vap-tko-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "outer_diameter" : 0.242
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.9,
+                "outer_diameter" : 0.231
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 50,
+        "nock" : 8,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "VAP",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vap-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.7,
+                "outer_diameter" : 0.237
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.8,
+                "outer_diameter" : 0.232
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 450,
+                "weight" : 6.6,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.1,
+                "outer_diameter" : 0.218
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 35,
+        "nock" : 8,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "VForce",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vforce-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.8,
+                "outer_diameter" : 0.309
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.7,
+                "outer_diameter" : 0.304
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.298
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.9,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.6,
+                "outer_diameter" : 0.287
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.01,0.003,0.006],
+        "insert" : 22,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Xtorsion SS",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/xtorsion-hunting-arrow-2/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 13.1,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 300,
+                "weight" : 12.9,
+                "outer_diameter" : 0.275
+            },
+            {
+                "spine" : 350,
+                "weight" : 12.7,
+                "outer_diameter" : 0.273
+            },
+            {
+                "spine" : 400,
+                "weight" : 11.6,
+                "outer_diameter" : 0.266
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003,0.006],
+        "insert" : 50,
+        "nock" : 9,
+        "weight_tolerance" : 0.05,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "RIP XV",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/rip-xv-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.0,
+                "outer_diameter" : 0.260
+            },
+            {
+                "spine" : 300,
+                "weight" : 7.1,
+                "outer_diameter" : 0.255
+            },
+            {
+                "spine" : 350,
+                "weight" : 6.4,
+                "outer_diameter" : 0.251
+            },
+            {
+                "spine" : 400,
+                "weight" : 5.9,
+                "outer_diameter" : 0.247
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.1,
+                "outer_diameter" : 0.242
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 21,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "RIP TKO",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/rip-tko-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 8.9,
+                "outer_diameter" : 0.266
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.266
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.265
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.0,
+                "outer_diameter" : 0.266
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 50,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "VF TKO",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vf-tko-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "outer_diameter" : 0.302
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 22,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "RIP",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/rip-hunting-arrow/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.265
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.2,
+                "outer_diameter" : 0.262
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.5,
+                "outer_diameter" : 0.258
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.0,
+                "outer_diameter" : 0.255
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003,0.006],
+        "insert" : 60,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Carbon Trad",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/carbontrad-hunting-arrow/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 11.2,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 450,
+                "weight" : 10.7,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 550,
+                "weight" : 10.5,
+                "outer_diameter" : 0.275
+            },
+            {
+                "spine" : 650,
+                "weight" : 10.1,
+                "outer_diameter" : 0.275
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003,0.006],
+        "insert" : 80,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "wood"
+    },
+    {
+        "model" : "V-TAC 23",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/v-tac23/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 270,
+                "weight" : 7.2,
+                "outer_diameter" : 0.350
+            },
+            {
+                "spine" : 380,
+                "weight" : 6.8,
+                "outer_diameter" : 0.349
+            },
+            {
+                "spine" : 480,
+                "weight" : 7.2,
+                "outer_diameter" : 0.350
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.314,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "V-TAC 25",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/v-tac25/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 7.2,
+                "outer_diameter" : 0.379
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.345,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "V-TAC 27",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/v-tac27/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 220,
+                "weight" : 10.8,
+                "outer_diameter" : 0.420
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.370,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "3DHV",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/3dhv-target-arrow/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 7.1,
+                "outer_diameter" : 0.255
+            },
+            {
+                "spine" : 350,
+                "weight" : 6.4,
+                "outer_diameter" : 0.251
+            },
+            {
+                "spine" : 400,
+                "weight" : 5.9,
+                "outer_diameter" : 0.247
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.1,
+                "outer_diameter" : 0.242
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.5,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.4,
+                "outer_diameter" : 0.243
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.0,
+                "outer_diameter" : 0.240
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    }, 
+    {
+        "model" : "VXT",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vxt-target-arrow/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.3,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 355,
+                "weight" : 6.4,
+                "outer_diameter" : 0.237
+            },
+            {
+                "spine" : 450,
+                "weight" : 5.9,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 550,
+                "weight" : 5.1,
+                "outer_diameter" : 0.234
+            },
+            {
+                "spine" : 630,
+                "weight" : 5.5,
+                "outer_diameter" : 0.235
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 15,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "VF TKO",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vf-tko-target-arrow/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "outer_diameter" : 0.302
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.7,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 15,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "VAP",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/vap-target-arrow/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 7.8,
+                "outer_diameter" : 0.232
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 450,
+                "weight" : 6.6,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.1,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.5,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.7,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.4,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.0,
+                "outer_diameter" : 0.210
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.7,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.7,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.6,
+                "outer_diameter" : 0.206
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Ares",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/youth-arrows/",
+        "category" : "youth",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 6.9,
+                "outer_diameter" : 0.283
+            }
+        ],
+        "length" : 29,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.006],
+        "nock" : 9,
+        "insert" : 11,
+        "color" : "blue"
+    },
+    {
+        "model" : "Venus",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/youth-arrows/",
+        "category" : "youth",
+        "specs" : [
+            {
+                "spine" : 600,
+                "weight" : 6.7,
+                "outer_diameter" : 0.277
+            }
+        ],
+        "length" : 29,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.006],
+        "nock" : 9,
+        "insert" : 11,
+        "color" : "pink"
+    },
+    {
+        "model" : "VAP JR",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/youth-arrows/",
+        "category" : "youth",
+        "specs" : [
+            {
+                "spine" : 600,
+                "weight" : 7.0,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.6,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.0,
+                "outer_diameter" : 0.209
+            }
+        ],
+        "length" : 28,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.006],
+        "nock" : 9,
+        "color" : "black carbon"
+    }
+]
