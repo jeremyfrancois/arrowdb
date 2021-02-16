@@ -83,8 +83,12 @@ function colorFormatter(value){
             case 'wood':
                 html += '<img src="img/wood.jfif" height="15px" width="15px">';
                 break;
+            case 'black':
             case 'black carbon':
                 html += '<img src="img/black carbon.jfif" height="15px" width="15px">';
+                break;
+            case 'black carbon weave':
+                html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
                 break;
             case 'traditional':
                 html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
