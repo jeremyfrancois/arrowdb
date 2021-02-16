@@ -128,7 +128,7 @@
             },
             {
                 "spine" : 1000,
-                "weight" : 1.0,
+                "weight" : 4.0,
                 "outer_diameter" : 0.270
             }
         ],

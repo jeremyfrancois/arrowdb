@@ -1003,7 +1003,8 @@
                 "outer_diameter" : 0.198
             }
         ],
-        "color" : "black carbon"
+        "color" : "black carbon",
+        "straightness" : [0.006]
     },
     {
         "model" : "Superdrive 19",
