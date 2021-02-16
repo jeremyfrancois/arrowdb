@@ -34,9 +34,9 @@ function straightnessFormatter(value){
 }
 
 function weightToleranceFormatter(value){
-    return value ? '&#241;'+value+' gr.' : 'n/a';
+    return value ? '&#241;'+value+'gr.' : 'n/a';
 }
 
 function linkFormatter(value){
-    return value ? '<a href="'+value+'" target="_blank"><i class="fa fa-eye-open"></i></a>' : '';
+    return value ? '<a href="'+value+'" target="_blank"><i class="fas fa-external-link-alt"></i></a>' : '';
 }
