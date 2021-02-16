@@ -16,7 +16,7 @@
 
   <div class="container">
     <h1>Welcome on Arrow DB [BETA]</h1>
-    <table class="table" data-sortable="true" data-pagination="true">
+    <table class="table" data-sortable="true" data-pagination="true" data-page-size="50">
       <thead>
         <tr>
           <th data-field="model" data-sortable="true">Model</th>
@@ -33,9 +33,9 @@
 
           <th data-field="weight_tolerance" data-formatter="weightToleranceFormatter" data-sortable="true">Weight Tol.</th>
 
-          <th data-field="category" data-formatter="categoryFormatter">Category</th>
+          <th data-field="category" data-sortable="true" data-formatter="categoryFormatter">Category</th>
 
-          <th data-field="color">Color</th>
+          <th data-field="color" data-formatter="colorFormatter">Color</th>
 
           <th data-field="link" data-formatter="linkFormatter"><i class="fa fa-globe"></i></th>
         </tr>

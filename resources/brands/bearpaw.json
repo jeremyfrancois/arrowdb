@@ -83,7 +83,7 @@
         "straightness" : [0.006],
         "inner_diameter" : 0.245,
         "weight_tolerance" : 3,
-        "color" : "bamboo"
+        "color" : "wood"
     },
     {
         "model" : "Bandit",
@@ -452,6 +452,6 @@
         "straightness" : [0.006],
         "inner_diameter" : 0.175,
         "weight_tolerance" : 3,
-        "color" : "bamboo"
+        "color" : "wood"
     }
 ]

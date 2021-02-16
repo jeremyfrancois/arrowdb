@@ -74,3 +74,24 @@ function categoryFormatter(value){
     });
     return html;
 }
+
+function colorFormatter(value){
+    let values = value.split('/');
+    let html = '';
+    values.forEach(val => {
+        switch(val.trim()){
+            case 'wood':
+                html += '<img src="img/wood.jfif" height="15px" width="15px">';
+                break;
+            case 'black carbon':
+                html += '<img src="img/black carbon.jfif" height="15px" width="15px">';
+                break;
+            case 'traditional':
+                html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
+                break;
+            default : 
+                break;
+        }
+    });
+    return html;
+}
