@@ -32,7 +32,7 @@ $(document).ready(function(){
 function straightnessFormatter(value){
     let html = '';
     if(Array.isArray(value)){
-        value.forEach(val => { html += straightnessPillBadge(Number(val)) + '<br/>'});
+        value.forEach(val => { html += straightnessPillBadge(Number(val)) + '&nbsp;'});
     } else {
         html = straightnessPillBadge(Number(value));
     }
@@ -54,4 +54,23 @@ function weightToleranceFormatter(value){
 
 function linkFormatter(value){
     return value ? '<a href="'+value+'" target="_blank"><i class="fas fa-external-link-alt"></i></a>' : '';
+}
+
+function categoryFormatter(value){
+    let values = value.split('/');
+    let html = '';
+    values.forEach(val => {
+        switch(val.trim()){
+            case 'target':
+                html += '<i class="fas fa-bullseye"></i>&nbsp;';
+                break;
+            case 'hunting':
+                html += '<i class="fas fa-tree"></i>&nbsp;';
+                break;
+            case 'traditional':
+                html += '<i class="fas fa-feather-alt"></i>&nbsp;';
+                break;
+        }
+    });
+    return html;
 }
