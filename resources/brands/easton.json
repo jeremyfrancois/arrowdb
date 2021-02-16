@@ -1074,7 +1074,8 @@
                 "spine" : 290,
                 "weight" : 7.8,
                 "length" : 32,
-                "outer_diameter" : 0.396
+                "outer_diameter" : 0.396,
+                "inner_diameter" : 0.325
             }
         ],
         "nock" : 23,

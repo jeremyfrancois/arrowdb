@@ -28,3 +28,15 @@ $(document).ready(function(){
         $table.bootstrapTable('append', arrows);
     }
 });
+
+function straightnessFormatter(value){
+    return value ? '&#241;'+value+'"' : 'n/a';
+}
+
+function weightToleranceFormatter(value){
+    return value ? '&#241;'+value+' gr.' : 'n/a';
+}
+
+function linkFormatter(value){
+    return value ? '<a href="'+value+'" target="_blank"><i class="fa fa-eye-open"></i></a>' : '';
+}

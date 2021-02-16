@@ -16,15 +16,21 @@
     <table class="table">
         <thead>
             <tr>
-                <th data-field="model">Model</th>
-                <th data-field="maker">Maker</th>
+              <th data-field="model">Model</th>
+              <th data-field="maker">Brand</th>
                 
-                <th data-field="spine">Spine</th>
+              <th data-field="spine">Spine</th>
+              
+              <th data-field="weight">G.P.I.</th>
 
-                <th data-field="inner_diameter">I.D.</th>
-                <th data-field="outer_diameter">I.D.</th>
+              <th data-field="inner_diameter">I.D.</th>
+              <th data-field="outer_diameter">O.D.</th>
 
-                <th data-field="link"><i class="fa fa-world"></i></th>
+              <th data-field="straightness" data-formatter="straightnessFormatter">Straightness</th>
+
+              <th data-field="weight_tolerance" data-formatter="weightToleranceFormatter">Weight Tol.</th>
+
+              <th data-field="link" data-formatter="linkFormatter"><i class="fa fa-globe"></i></th>
             </tr>
         </thead>
     </table>
