@@ -16,6 +16,53 @@
 
   <div class="container">
     <h1>Welcome on Arrow DB [BETA]</h1>
+
+    <div>
+      <button class="btn btn-default" data-bs-toggle="collapse" href="#filter" role="button" aria-expanded="false" aria-controls="filter">Filter...</button>
+      <div class="card card-body form collapse" id="filter">
+        <div class="rows">
+          <div class="input-group">
+            <label for="model">Model</label>
+            <input type="text" name="model">
+          </div>
+          <div class="input-group">
+            <label for="brand">Brand</label>
+            <select name="brand">
+            </select>
+          </div>
+          <div class="input-group">
+            <label for="min_gpi">G.P.I. min</label>
+            <input type="number" name="min_gpi">
+            <label for="max_gpi">G.P.I. max</label>
+            <input type="number" name="max_gpi">
+          </div>
+          <div class="input-group">
+            <label for="min_id">I.D. min</label>
+            <input type="number" name="min_id">
+            <label for="max_id">I.D. max</label>
+            <input type="number" name="max_id">
+          </div>
+          <div class="input-group">
+            <label for="min_id">O.D. min</label>
+            <input type="number" name="min_id">
+            <label for="max_id">O.D. max</label>
+            <input type="number" name="max_id">
+          </div>
+          <div class="input-group">
+            <label for="category">Category</label>
+            <select name="category" multiple="true">
+              <option value="target">Target</option>
+              <option value="hunting">Hunting</option>
+              <option value="traditional">Traditional</option>
+            </select>
+          </div>
+          <div class="input-group">
+            <label for="straightness">Straightness lower than</label>
+            <input type="number" name="straightness">
+          </div>
+        </div>
+      </div>
+    </div>
     <table class="table" data-sortable="true" data-pagination="true" data-page-size="50">
       <thead>
         <tr>

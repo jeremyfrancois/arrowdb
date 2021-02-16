@@ -8,11 +8,14 @@ $(document).ready(function(){
         (async () => {
             const fetchBrands = await fetch(`resources/brands.json`);
             const brands = await fetchBrands.json();
+            let brandIndex = 0;
             brands.forEach(brand => {
                 (async () => {
+                    $('#brand').options[brandIndex] = new Option(brand, brand.charAt(0).toUpperCase() + brand.slice(1));
                     const fetchModels = await fetch(`resources/brands/${brand}.json`);
                     const data = await fetchModels.json();
                     data.forEach(model => populate(model));
+                    brandIndex++;
                 })();
             });
         })();
