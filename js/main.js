@@ -30,7 +30,23 @@ $(document).ready(function(){
 });
 
 function straightnessFormatter(value){
-    return value ? '+/-'+value+'"' : 'n/a';
+    let html = '';
+    if(value.includes(',') > 0){
+        let values = value.split(',');
+        values.forEach(val => html += straightnessPillBadge(value) + '<br/>')
+    } else {
+        html = straightnessPillBadge(value);
+    }
+    return html;
+}
+
+function straightnessPillBadge(value){
+    if(value <= 0.0015){
+        return `<span class="badge rounded-pill bg-warning">${value}</span>`;
+    } else if(value > 0.0015 && value <= 0.0035){
+        return `<span class="badge rounded-pill bg-success">${value}</span>`;
+    }
+    return `<span class="badge rounded-pill bg-danger">${value}</span>`;
 }
 
 function weightToleranceFormatter(value){
