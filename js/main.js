@@ -31,7 +31,7 @@ $(document).ready(function(){
 
 function straightnessFormatter(value){
     let html = '';
-    if(typeof value === 'Array'){
+    if(Array.isArray(value)){
         value.forEach(val => { html += straightnessPillBadge(Number(val)) + '<br/>'});
     } else {
         html = straightnessPillBadge(Number(value));
