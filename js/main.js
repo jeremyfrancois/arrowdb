@@ -19,10 +19,12 @@ $(document).ready(function(){
     }
 
     function populate(model){
+        const arrows = [];
         model.specs.forEach(spec => {
             let arrow = {};
             $.extend(arrow,model,spec);
-            $table.bootstrapTable('append', [arrow]);
+            arrows.push(arrow);
         });
+        $table.bootstrapTable('append', arrows);
     }
 });
