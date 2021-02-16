@@ -1,0 +1,151 @@
+[
+    {
+        "model" : "Centershot",
+        "maker" : "Beman",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 10.3,
+                "length" : 31.5
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.6,
+                "length" : 31
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.3,
+                "length" : 30.75
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.1,
+                "length" : 30.5
+            }
+        ],
+        "straightness" : [0.003],
+        "inner_diameter" : 0.234,
+        "weight_tolerance" : 2,
+        "insert" : 18,
+        "nock" : 9,
+        "color" : "wood"
+    },
+    {
+        "model" : "ICS Hunter",
+        "maker" : "Beman",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.3
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.4
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.003],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 2,
+        "insert" : 21,
+        "nock" : 13,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Hunter Pro",
+        "maker" : "Beman",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.6
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.8
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.5
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.002],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 2,
+        "insert" : 21,
+        "nock" : 9,
+        "color" : "camo"
+    },
+    {
+        "model" : "ICS Bowhunter",
+        "maker" : "Beman",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 9.4
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.3
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.4
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 2,
+        "insert" : 21,
+        "nock" : 13,
+        "color" : "black"
+    },
+    {
+        "model" : "Nightfall",
+        "maker" : "Beman",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.7
+            },
+            {
+                "spine" : 340,
+                "weight" : 9.5
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.0
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.1
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.003],
+        "inner_diameter" : 0.204,
+        "weight_tolerance" : 2,
+        "insert" : 16,
+        "nock" : 9,
+        "color" : "black"
+    }
+]

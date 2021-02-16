@@ -1,0 +1,457 @@
+[
+    {
+        "model" : "Traditional Black",
+        "maker" : "Bearpaw",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/53/10459-penthalon-traditional-black",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.7,
+                "outer_diameter" : 0.299
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.2,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.8,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.8,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.5,
+                "outer_diameter" : 0.282
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.1,
+                "outer_diameter" : 0.279
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.245,
+        "weight_tolerance" : 3,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Traditional Bamboo",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/56/10470-penthalon-traditional-bamboo",
+        "maker" : "Bearpaw",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.27,
+                "outer_diameter" : 0.301
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.36,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.26,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.26,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.96,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.56,
+                "outer_diameter" : 0.284
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.245,
+        "weight_tolerance" : 3,
+        "color" : "bamboo"
+    },
+    {
+        "model" : "Bandit",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/61/10484-penthalon-bandit",
+        "maker" : "Bearpaw",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.0,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.288
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.0,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.8,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.9,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.5,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 900,
+                "weight" : 4.2,
+                "outer_diameter" : 0.271
+            },
+            {
+                "spine" : 1000,
+                "weight" : 1.0,
+                "outer_diameter" : 0.270
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.245,
+        "weight_tolerance" : 3,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Timberstick",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/499/10487-penthalon-timberstick",
+        "maker" : "Bearpaw",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.0,
+                "outer_diameter" : 0.288
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.8,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.9,
+                "outer_diameter" : 0.275
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.5,
+                "outer_diameter" : 0.273
+            },
+            {
+                "spine" : 900,
+                "weight" : 4.2,
+                "outer_diameter" : 0.272
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.245,
+        "weight_tolerance" : 3,
+        "color" : "wood"
+    },
+    {
+        "model" : "Hunter Extreme",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/54/10460-penthalon-hunter-extreme",
+        "maker" : "Bearpaw",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.67,
+                "outer_diameter" : 0.309
+            },
+            {
+                "spine" : 350,
+                "weight" : 10.29,
+                "outer_diameter" : 0.307
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.62,
+                "outer_diameter" : 0.303
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.15,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.57,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.82,
+                "outer_diameter" : 0.282
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.44,
+                "outer_diameter" : 0.280
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.003],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 3,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Traditional Extreme",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/55/10461-penthalon-traditional-extreme",
+        "maker" : "Bearpaw",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 12.52,
+                "outer_diameter" : 0.328
+            },
+            {
+                "spine" : 350,
+                "weight" : 12,
+                "outer_diameter" : 0.325
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.7,
+                "outer_diameter" : 0.322
+            },
+            {
+                "spine" : 500,
+                "weight" : 10.1,
+                "outer_diameter" : 0.318
+            },
+            {
+                "spine" : 600,
+                "weight" : 9.9,
+                "outer_diameter" : 0.316
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 3,
+        "color" : "wood"
+    },
+    {
+        "model" : "Heavy Hunter",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/57/10475-penthalon-heavy-hunter",
+        "maker" : "Bearpaw",
+        "category" : "hunting / traditional",
+        "specs" : [
+            {
+                "spine" : 320,
+                "weight" : 14.27,
+                "outer_diameter" : 0.324
+            },
+            {
+                "spine" : 400,
+                "weight" : 12.01,
+                "outer_diameter" : 0.314
+            },
+            {
+                "spine" : 500,
+                "weight" : 11.55,
+                "outer_diameter" : 0.312
+            },
+            {
+                "spine" : 600,
+                "weight" : 11.18,
+                "outer_diameter" : 0.309
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.244,
+        "weight_tolerance" : 3,
+        "color" : "black carbon / wood"
+    },
+    {
+        "model" : "Slim Line Black",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/58/10480-penthalon-slim-line-black",
+        "maker" : "Bearpaw",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.2,
+                "outer_diameter" : 0.250
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.5,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.3,
+                "outer_diameter" : 0.234
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.27,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.7,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.5,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1600,
+                "weight" : 4.1,
+                "outer_diameter" : 0.209
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.175,
+        "weight_tolerance" : 3,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Slim Line Timber",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/59/10481-penthalon-slim-line-timber",
+        "maker" : "Bearpaw",
+        "category" : "target / traditional",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.57,
+                "outer_diameter" : 0.252
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.97,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.63,
+                "outer_diameter" : 0.235
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.67,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.05,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.34,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.87,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 1600,
+                "weight" : 4.49,
+                "outer_diameter" : 0.213
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.175,
+        "weight_tolerance" : 3,
+        "color" : "wood"
+    },
+    {
+        "model" : "Slim Line Bamboo",
+        "link" : "https://www.bearpaw-shop.com/en/products/arrows/arrow-shafts/penthalon-carbon-shafts/60/10482-penthalon-slim-line-bamboo",
+        "maker" : "Bearpaw",
+        "category" : "target / traditional",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.94,
+                "outer_diameter" : 0.252
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.99,
+                "outer_diameter" : 0.238
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.73,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.11,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.42,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.99,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 1600,
+                "weight" : 4.61,
+                "outer_diameter" : 0.211
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.175,
+        "weight_tolerance" : 3,
+        "color" : "bamboo"
+    }
+]

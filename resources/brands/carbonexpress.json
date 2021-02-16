@@ -1,20 +1,20 @@
 [    
     {
-        "model" : "D-Stroyer PileDRIVER",
+        "model" : "D-Stroyer Piledriver",
         "maker" : "Carbon Express",
         "link" : "https://www.feradyne.com/d-stroyer-piledriver/",
         "category" : "hunting",
         "specs" : [
             {
-                "spine" : 282,
+                "spine" : 280,
                 "weight" : 12.8
             },
             {
-                "spine" : 339,
+                "spine" : 340,
                 "weight" : 11.0
             },
             {
-                "spine" : 401,
+                "spine" : 400,
                 "weight" : 10.1
             }
         ],
@@ -32,12 +32,12 @@
         "category" : "hunting",
         "specs" : [
             {
-                "spine" : 342,
+                "spine" : 340,
                 "weight" : 9.1,
                 "outer_diameter" : 0.300
             },
             {
-                "spine" : 417,
+                "spine" : 420,
                 "weight" : 8.1,
                 "outer_diameter" : 0.295
             }
@@ -56,12 +56,12 @@
         "category" : "hunting",
         "specs" : [
             {
-                "spine" : 344,
+                "spine" : 340,
                 "weight" : 9.7,
                 "outer_diameter" : 0.272
             },
             {
-                "spine" : 404,
+                "spine" : 400,
                 "weight" : 8.7,
                 "outer_diameter" : 0.264
             }
@@ -96,6 +96,1124 @@
         "inner_diameter" : 0.203,
         "nock" : 10,
         "straightness" : [0.003],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "D-Stroyer MX Hunter",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer-mx-hunter/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.7
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.0
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon / camo"
+    },
+    {
+        "model" : "D-Stroyer SD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer-sd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 11.4
+            },
+            {
+                "spine" : 350,
+                "weight" : 10.3
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.4
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "D-Stroyer",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/d-stroyer/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.9
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.9
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.0
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Triad",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-triad/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.9,
+                "outer_diameter" : 0.251
+            },
+            {
+                "spine" : 350,
+                "weight" : 10.1,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.2,
+                "outer_diameter" : 0.240
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima XRZ Select",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-xrz-select/",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 8.4,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.5,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.6,
+                "outer_diameter" : 0.286
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.001,0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Mayhem Hunter SDS",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/mayhem-hunter-sds/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 11.3,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.3,
+                "outer_diameter" : 0.271
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "straightness" : [0.0035],
+        "weight_tolerance" : 1,
+        "color" : "black carbon / camo"
+    },
+    {
+        "model" : "Piledriver DS Hunter",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/piledriver-ds-hunter/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 13.3,
+                "outer_diameter" : 0.318
+            },
+            {
+                "spine" : 340,
+                "weight" : 11.4,
+                "outer_diameter" : 0.308
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.5,
+                "outer_diameter" : 0.304
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.0035],
+        "weight_tolerance" : 1,
+        "color" : "black carbon / camo"
+    },
+    {
+        "model" : "Maxima Red",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-red/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 9.07,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 420,
+                "weight" : 8.11,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima 360",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-360/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 9.4
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.3
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "CX Adrenaline",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/cx-adrenaline/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 9.98,
+                "length" : 31,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.96,
+                "length" : 30,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.4,
+                "length" : 30,
+                "outer_diameter" : 0.282
+            }
+        ],
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "straightness" : [0.006],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Heritage",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/heritage/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 320,
+                "weight" : 11.45,
+                "length" : 32.5,
+                "inner_diameter" : 0.244,
+                "nock" : 10,
+                "outer_diameter" : 0.312
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.92,
+                "length" : 32.5,
+                "inner_diameter" : 0.244,
+                "nock" : 10,
+                "outer_diameter" : 0.306
+            },
+            {
+                "spine" : 500,
+                "weight" : 10.11,
+                "length" : 32.5,
+                "inner_diameter" : 0.244,
+                "nock" : 10,
+                "outer_diameter" : 0.305
+            },
+            {
+                "spine" : 600,
+                "weight" : 9.71,
+                "length" : 30,
+                "inner_diameter" : 0.234,
+                "nock" : 9,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 670,
+                "weight" : 8.69,
+                "length" : 30,
+                "inner_diameter" : 0.234,
+                "nock" : 9,
+                "outer_diameter" : 0.287
+            }
+        ],
+        "straightness" : [0.005],
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Predator",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/predator/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 10.01,
+                "length" : 31,
+                "inner_diameter" : 0.244,
+                "nock" : 10,
+                "insert" : 11,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 410,
+                "weight" : 8.97,
+                "length" : 30,
+                "inner_diameter" : 0.244,
+                "nock" : 10,
+                "insert" : 11,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.06,
+                "length" : 30,
+                "inner_diameter" : 0.234,
+                "nock" : 10,
+                "insert" : 11,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 620,
+                "weight" : 7.04,
+                "length" : 30,
+                "inner_diameter" : 0.234,
+                "nock" : 9,
+                "insert" : 11,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.45,
+                "length" : 30,
+                "inner_diameter" : 0.203,
+                "nock" : 9,
+                "insert" : 11,
+                "outer_diameter" : 0.247
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.96,
+                "length" : 30,
+                "inner_diameter" : 0.203,
+                "nock" : 9,
+                "insert" : 11,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 870,
+                "weight" : 5.91,
+                "length" : 29,
+                "inner_diameter" : 0.187,
+                "nock" : 9,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 970,
+                "weight" : 5.48,
+                "length" : 29,
+                "inner_diameter" : 0.187,
+                "nock" : 9,
+                "outer_diameter" : 0.228
+            }
+        ],
+        "straightness" : [0.006],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Predator Hot Pursuit",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/predator-hot-pursuit/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.06,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 620,
+                "weight" : 7.04,
+                "outer_diameter" : 0.281
+            }
+        ],
+        "nock" : 9,
+        "insert" : 11,
+        "length" : 30,
+        "inner_diameter" : 0.234,
+        "straightness" : [0.006],
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Predator XSD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/predator-xsd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 12.2,
+                "outer_diameter" : 0.260
+            },
+            {
+                "spine" : 330,
+                "weight" : 10.9,
+                "outer_diameter" : 0.253
+            },
+            {
+                "spine" : 410,
+                "weight" : 10.0,
+                "outer_diameter" : 0.245
+            },
+            {
+                "spine" : 500,
+                "weight" : 9.0,
+                "outer_diameter" : 0.237
+            }
+        ],
+        "length" : 31.5,
+        "nock" : 8.3,
+        "insert" : 33,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "weight_tolerance" : 3,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Red Badlands SD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-red-badlands-sd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 9.4,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.3,
+                "outer_diameter" : 0.264
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "insert" : 44,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon / camo"
+    },
+    {
+        "model" : "Maxima Red SD",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-red-sd/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 330,
+                "weight" : 9.4,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.3,
+                "outer_diameter" : 0.264
+            }
+        ],
+        "length" : 31.5,
+        "inner_diameter" : 0.203,
+        "nock" : 10,
+        "insert" : 44,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Game Slayer",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/game-slayer-carbon/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.03,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.99,
+                "outer_diameter" : 0.295
+            }
+        ],
+        "length" : 30,
+        "inner_diameter" : 0.244,
+        "nock" : 10,
+        "insert" : 11,
+        "straightness" : [0.009],
+        "weight_tolerance" : 3,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Tank 25",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/tank-25/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.1,
+                "outer_diameter" : 0.382
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.349,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Tank 23D",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/tank-23d/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 7.9,
+                "outer_diameter" : 0.357
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.355
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.8,
+                "outer_diameter" : 0.352
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.318,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Tank 27",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/tank-27/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.9,
+                "outer_diameter" : 0.420
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.378,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Nano XR",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/nano-xr/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 380,
+                "weight" : 9.1,
+                "length" : 32.5,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 410,
+                "weight" : 8.6,
+                "length" : 32.5,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.1,
+                "length" : 32.5,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 490,
+                "weight" : 7.8,
+                "length" : 32.5,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 530,
+                "weight" : 7.5,
+                "length" : 31,
+                "outer_diameter" : 0.203
+            },
+            {
+                "spine" : 580,
+                "weight" : 7.2,
+                "length" : 31,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 630,
+                "weight" : 6.6,
+                "length" : 31,
+                "outer_diameter" : 0.196
+            }
+        ],
+        "inner_diameter" : 0.130,
+        "straightness" : [0.0015],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Nano Pro RZ",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/nano-pro-rz/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.6,
+                "length" : 33,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.7,
+                "length" : 33,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.1,
+                "length" : 33,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "length" : 33,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.2,
+                "length" : 33,
+                "outer_diameter" : 0.203
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.9,
+                "length" : 32.5,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.5,
+                "length" : 32.5,
+                "outer_diameter" : 0.196
+            }
+        ],
+        "inner_diameter" : 0.124,
+        "straightness" : [0.0015],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "X-Buster",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/x-buster/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 320,
+                "weight" : 10.2,
+                "length" : 32.5,
+                "inner_diameter" : 0.318,
+                "outer_diameter" : 0.363
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "length" : 32.5,
+                "inner_diameter" : 0.318,
+                "outer_diameter" : 0.360
+            },
+            {
+                "spine" : 500,
+                "weight" : 9.0,
+                "length" : 32.5,
+                "inner_diameter" : 0.318,
+                "outer_diameter" : 0.358
+            },
+            {
+                "spine" : 580,
+                "weight" : 9.0,
+                "length" : 31,
+                "inner_diameter" : 0.284,
+                "outer_diameter" : 0.329
+            },
+            {
+                "spine" : 700,
+                "weight" : 8.9,
+                "length" : 31,
+                "inner_diameter" : 0.284,
+                "outer_diameter" : 0.327
+            }
+        ],
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maxima Pro RZ Recurve",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/maxima-pro-rz-recurve/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 370,
+                "weight" : 8.0,
+                "length" : 32.5,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 430,
+                "weight" : 7.3,
+                "length" : 32.5,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.6,
+                "length" : 32.5,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.6,
+                "length" : 31.5,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 650,
+                "weight" : 5.3,
+                "length" : 31.5,
+                "outer_diameter" : 0.270
+            }
+        ],
+        "inner_diameter" : 0.234,
+        "straightness" : [0.0025],
+        "weight_tolerance" : 1,
+        "nock" : 9,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Nano .166",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/nano-166-12-pack-shafts/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.9,
+                "length" : 31.5,
+                "outer_diameter" : 0.253
+            },
+            {
+                "spine" : 400,
+                "weight" : 10.0,
+                "length" : 31.5,
+                "outer_diameter" : 0.245
+            },
+            {
+                "spine" : 500,
+                "weight" : 9.0,
+                "length" : 31.5,
+                "outer_diameter" : 0.237
+            },
+            {
+                "spine" : 600,
+                "weight" : 8.0,
+                "length" : 32,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 700,
+                "weight" : 7.4,
+                "length" : 32,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.6,
+                "length" : 32,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 900,
+                "weight" : 6.4,
+                "length" : 32,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 1000,
+                "weight" : 6.2,
+                "length" : 31,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 1100,
+                "weight" : 5.6,
+                "length" : 31,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 1200,
+                "weight" : 5.5,
+                "length" : 31,
+                "outer_diameter" : 0.212
+            }
+        ],
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "weight_tolerance" : 1,
+        "nock" : 9,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Medallion XR",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/medallion-xr/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 8.9,
+                "length" : 31,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.253
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.6,
+                "length" : 31,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.75,
+                "length" : 31,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.05,
+                "length" : 31,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.5,
+                "length" : 30,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.2,
+                "length" : 30,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.228
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.85,
+                "length" : 29,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.6,
+                "length" : 29,
+                "inner_diameter" : 0.187,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 1300,
+                "weight" : 6.4,
+                "length" : 29,
+                "inner_diameter" : 0.118,
+                "outer_diameter" : 0.188
+            },
+            {
+                "spine" : 1500,
+                "weight" : 5.9,
+                "length" : 29,
+                "inner_diameter" : 0.118,
+                "outer_diameter" : 0.183
+            },
+            {
+                "spine" : 1800,
+                "weight" : 5.3,
+                "length" : 29,
+                "inner_diameter" : 0.118,
+                "outer_diameter" : 0.177
+            },
+            {
+                "spine" : 2000,
+                "weight" : 5.1,
+                "length" : 29,
+                "inner_diameter" : 0.118,
+                "outer_diameter" : 0.176
+            }
+        ],
+        "straightness" : [0.003],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Nano SST",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/nano-sst/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.62,
+                "length" : 32,
+                "outer_diameter" : 0.229
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.97,
+                "length" : 32,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.18,
+                "length" : 32,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.79,
+                "length" : 32,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.33,
+                "length" : 31,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.95,
+                "length" : 31,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.46,
+                "length" : 31,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 750,
+                "weight" : 6.38,
+                "length" : 30,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.88,
+                "length" : 30,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.57,
+                "length" : 30,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.11,
+                "length" : 29,
+                "outer_diameter" : 0.195
+            }
+        ],
+        "inner_diameter" : 0.144,
+        "straightness" : [0.002],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
+    }, 
+    {
+        "model" : "Nano Pro Xtreme",
+        "maker" : "Carbon Express",
+        "link" : "https://www.feradyne.com/nano-pro-x-treme/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.3,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.69,
+                "length" : 32,
+                "outer_diameter" : 0.206
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.02,
+                "length" : 32,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.75,
+                "length" : 32,
+                "outer_diameter" : 0.199
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.1,
+                "length" : 32,
+                "outer_diameter" : 0.194
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.7,
+                "length" : 31,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.2,
+                "length" : 31,
+                "outer_diameter" : 0.187
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.0,
+                "length" : 31,
+                "outer_diameter" : 0.184
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.85,
+                "length" : 30,
+                "outer_diameter" : 0.182
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.62,
+                "length" : 30,
+                "outer_diameter" : 0.180
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.19,
+                "length" : 30,
+                "outer_diameter" : 0.176
+            }
+        ],
+        "inner_diameter" : 0.118,
+        "straightness" : [0.0015],
         "weight_tolerance" : 1,
         "color" : "black carbon"
     }
