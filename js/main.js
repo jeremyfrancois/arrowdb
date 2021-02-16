@@ -30,11 +30,11 @@ $(document).ready(function(){
 });
 
 function straightnessFormatter(value){
-    return value ? '&#241;'+value+'"' : 'n/a';
+    return value ? '+/-'+value+'"' : 'n/a';
 }
 
 function weightToleranceFormatter(value){
-    return value ? '&#241;'+value+'gr.' : 'n/a';
+    return value ? '+/-'+value+'gr.' : 'n/a';
 }
 
 function linkFormatter(value){
