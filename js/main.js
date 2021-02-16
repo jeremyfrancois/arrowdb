@@ -33,9 +33,9 @@ function straightnessFormatter(value){
     let html = '';
     if(value.includes(',') > 0){
         let values = value.split(',');
-        values.forEach(val => html += straightnessPillBadge(value) + '<br/>')
+        values.forEach(val => html += straightnessPillBadge(Number(val)) + '<br/>')
     } else {
-        html = straightnessPillBadge(value);
+        html = straightnessPillBadge(Number(value));
     }
     return html;
 }
