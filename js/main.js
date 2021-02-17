@@ -5,7 +5,7 @@ $(document).ready(function(){
     $table.bootstrapTable();
 
     load();
-    $('#gpi').on('slide', onChangeGPIRange);
+    $('#gpi').on('slideStop', onChangeGPIRange);
 
     function load(){
         (async () => {
@@ -16,7 +16,7 @@ $(document).ready(function(){
 
             brands.forEach(brand => {
                 (async () => {
-                    $('#brand').append(new Option(brand.label, brand.label.charAt(0).toUpperCase() + brand.label.slice(1)));
+                    $('#brand').append(new Option(brand.label, brand.label.charAt(0).toUpperCase() + brand.label.slice(1), true, true));
                     const fetchModels = await fetch(`resources/brands/${brand.code}.json`);
                     const data = await fetchModels.json();
                     data.forEach(model => populate(model));
@@ -39,17 +39,81 @@ $(document).ready(function(){
     }
 
     function onChangeGPIRange(){
-        console.log($(this).slider('getValue'));
-        // filter($.extend(filter_,{"gpi" : $(this).val()}));
+        filter($.extend(filter_,{"gpi" : $(this).val()}));
+    }
+
+    function onChangeODRange(){
+        filter($.extend(filter_,{"outer_diameter" : $(this).val()}));
+    }
+
+    function onChangeIDRange(){
+        filter($.extend(filter_,{"inner_diameter" : $(this).val()}));
+    }
+
+    function onChangeStraightnessRange(){
+        filter($.extend(filter_,{"straightness" : $(this).val()}));
+    }
+
+    function onChangeModel(){
+        filter($.extend(filter_,{"model" : $(this).val()}));
+    }
+
+    function onChangeBrand(){
+        filter($.extend(filter_,{"brands" : $(this).select2('data')}));
+    }
+
+    function onChangeCategory(){
+        filter($.extend(filter_,{"categories" : $(this).select2('data')}));
     }
 
     function filter(filters){
-        // let filteredData = $.grep(data, function(arrow){
-        //     let ok = true;
-        //     if(filters.gpi){
-        //         let gpi_min = 
-        //     }
-        // });
+        let filteredData = $.grep(data, function(arrow){
+            let ok = true;
+            if(filters.gpi && filters.gpi.length > 0){
+                let gpi_min = filters.gpi[0];
+                let gpi_max = filters.gpi[1];
+                if(arrow.weight < gpi_min || arrow.weight > gpi_max)
+                ok = false;
+            }
+
+            if(filters.straightness && filters.straightness.length > 0){
+                let straightness_min = filters.straightness[0];
+                let straightness_max = filters.straightness[1];
+                if(arrow.straightness < straightness_min || arrow.straightness > straightness_max)
+                ok = false;
+            }
+
+            if(filters.outer_diameter && filters.outer_diameter.length > 0){
+                let outer_diameter_min = filters.outer_diameter[0];
+                let outer_diameter_max = filters.outer_diameter[1];
+                if(arrow.outer_diameter < outer_diameter_min || arrow.outer_diameter > outer_diameter_max)
+                ok = false;
+            }
+
+            if(filters.inner_diameter && filters.inner_diameter.length > 0){
+                let inner_diameter_min = filters.inner_diameter[0];
+                let inner_diameter_max = filters.inner_diameter[1];
+                if(arrow.inner_diameter < inner_diameter_min || arrow.inner_diameter > inner_diameter_max)
+                ok = false;
+            }
+
+            if(filters.brands && filters.brands.length > 0 && !$.inArray(arrow.brand,filters.brands)){
+                ok = false;
+            }
+
+            if(filters.categories && filters.categories.length > 0 && !$.inArray(arrow.category,filters.categories)){
+                ok = false;
+            }
+            
+            if(!arrow.model.includes(filters.model)){
+                ok = false;
+            }
+    
+            return ok;
+        });
+
+        $table.bootstrapTable('removeAll');
+        $table.bootstrapTable('append', filteredData);
     }
 
 });
