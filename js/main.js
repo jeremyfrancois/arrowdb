@@ -129,7 +129,7 @@ $(document).ready(function(){
                 ok = false;
             }
             
-            if(!arrow.model.includes(filters.model)){
+            if(filters.model && filters.model.length > 0 && !arrow.model.includes(filters.model)){
                 ok = false;
             }
 
