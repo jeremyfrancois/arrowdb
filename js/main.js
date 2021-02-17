@@ -132,6 +132,8 @@ $(document).ready(function(){
             if(!arrow.model.includes(filters.model)){
                 ok = false;
             }
+
+            console.log(ok ? 'filtered : ' + arrow : 'not filtered : '+ arrow)
         }
         return ok;
     }
