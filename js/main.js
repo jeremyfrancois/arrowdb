@@ -88,6 +88,7 @@ $(document).ready(function(){
 
     function filter(arrow,filters){
             let ok = true;
+            if(filters){
             if(filters.gpi && filters.gpi.length > 0){
                 let gpi = filters.gpi.split(',');
                 let gpi_min = Number(gpi[0]);
@@ -131,8 +132,8 @@ $(document).ready(function(){
             if(!arrow.model.includes(filters.model)){
                 ok = false;
             }
-    
-            return ok;
+        }
+        return ok;
     }
 });
 
