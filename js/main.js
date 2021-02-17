@@ -39,7 +39,7 @@ $(document).ready(function(){
     }
 
     function onChangeGPIRange(){
-        console.log($(this).boostrapSlider('getValue'));
+        console.log($(this).slider('getValue'));
         // filter($.extend(filter_,{"gpi" : $(this).val()}));
     }
 
