@@ -19,6 +19,8 @@ $(document).ready(function(){
                     data.forEach(model => populate(model));
                 })();
             });
+
+            $('select').select2();
         })();
     }
 

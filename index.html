@@ -20,14 +20,15 @@
 
     <div class="row">
       <div class="col-2">
-        <div class="rows">
+        <div class="form">
+          <h3>Filters</h3>
           <div class="input-group">
             <label for="model">Model</label>
             <input type="text" name="model" class="form-control">
           </div>
           <div class="input-group">
             <label for="brand">Brand</label>
-            <select name="brand" class="form-control">
+            <select id="brand" name="brand" class="form-control">
             </select>
           </div>
           <div class="input-group">
@@ -51,9 +52,9 @@
           <div class="input-group">
             <label for="category">Category</label>
             <select name="category" multiple="true" class="form-control">
-              <option value="target">Target</option>
-              <option value="hunting">Hunting</option>
-              <option value="traditional">Traditional</option>
+              <option value="target"><em class="fas fa-bullseye"></em>&nbsp;Target</option>
+              <option value="hunting"><em class="fas fa-tree"></em>&nbsp;Hunting</option>
+              <option value="traditional"><em class="fas fa-feather-alt"></em>&nbsp;Traditional</option>
             </select>
           </div>
           <div class="input-group">
