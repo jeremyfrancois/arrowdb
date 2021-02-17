@@ -78,8 +78,8 @@ $(document).ready(function(){
             let ok = true;
             if(filters.gpi && filters.gpi.length > 0){
                 let gpi = filters.gpi.split(',');
-                let gpi_min = Number(filters.gpi[0]);
-                let gpi_max = Number(filters.gpi[1]);
+                let gpi_min = Number(gpi[0]);
+                let gpi_max = Number(gpi[1]);
                 if(arrow.weight < gpi_min || arrow.weight > gpi_max)
                 ok = false;
             }
