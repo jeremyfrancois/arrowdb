@@ -74,7 +74,7 @@ $(document).ready(function(){
     }
 
     function filter(filters){
-        let filteredData = $.grep(data, function(arrow){
+        $table.bootstrapTable('filterBy', function(arrow, filters_){
             let ok = true;
             if(filters.gpi && filters.gpi.length > 0){
                 let gpi = filters.gpi.split(',');
@@ -122,11 +122,7 @@ $(document).ready(function(){
     
             return ok;
         });
-
-        $table.bootstrapTable('removeAll');
-        $table.bootstrapTable('append', filteredData);
     }
-
 });
 
 function straightnessFormatter(value){
