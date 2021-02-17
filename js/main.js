@@ -5,7 +5,7 @@ $(document).ready(function(){
     $table.bootstrapTable();
 
     load();
-    $('#gpi').on('input', onChangeGPIRange);
+    $('#gpi').on('slide', onChangeGPIRange);
 
     function load(){
         (async () => {
