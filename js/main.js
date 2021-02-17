@@ -14,6 +14,12 @@ $(document).ready(function(){
     $('#brand').on('change', onChangeBrand);
     $('#category').on('change', onChangeCategory);
 
+    $table.bootstrapTable('refreshOptions', {
+        filterOptions: {
+          filterAlgorithm: filter
+        }
+    });
+
     function load(){
         (async () => {
             const fetchBrands = await fetch(`resources/brands.json`);
@@ -46,35 +52,41 @@ $(document).ready(function(){
     }
 
     function onChangeGPIRange(){
-        filter($.extend(filter_,{"gpi" : $(this).val()}));
+        $.extend(filter_,{"gpi" : $(this).val()});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeODRange(){
-        filter($.extend(filter_,{"outer_diameter" : $(this).val()}));
+        $.extend(filter_,{"outer_diameter" : $(this).val()});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeIDRange(){
-        filter($.extend(filter_,{"inner_diameter" : $(this).val()}));
+        $.extend(filter_,{"inner_diameter" : $(this).val()});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeStraightnessRange(){
-        filter($.extend(filter_,{"straightness" : $(this).val()}));
+        $.extend(filter_,{"straightness" : $(this).val()});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeModel(){
-        filter($.extend(filter_,{"model" : $(this).val()}));
+        $.extend(filter_,{"model" : $(this).val()});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeBrand(){
-        filter($.extend(filter_,{"brands" : $(this).select2('data')}));
+        $.extend(filter_,{"brands" : $(this).select2('data')});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeCategory(){
-        filter($.extend(filter_,{"categories" : $(this).select2('data')}));
+        $.extend(filter_,{"categories" : $(this).select2('data')});
+        $table.bootstrapTable('filterBy',filter_);
     }
 
-    function filter(filters){
-        $table.bootstrapTable('filterBy', function(arrow, filters_){
+    function filter(arrow,filters){
             let ok = true;
             if(filters.gpi && filters.gpi.length > 0){
                 let gpi = filters.gpi.split(',');
@@ -121,7 +133,6 @@ $(document).ready(function(){
             }
     
             return ok;
-        });
     }
 });
 
