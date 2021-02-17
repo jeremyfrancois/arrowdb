@@ -32,22 +32,16 @@
             </select>
           </div>
           <div class="input-group">
-            <label for="min_gpi">G.P.I. min</label>
-            <input type="number" name="min_gpi" class="form-control">
-            <label for="max_gpi">G.P.I. max</label>
-            <input type="number" name="max_gpi" class="form-control">
+            <label for="gpi">G.P.I.</label>
+            <b>3.0</b><input id="gpi" name="gpi" type="text" class="span2" value="" data-slider-min="3" data-slider-max="17" data-slider-step="0.1" data-slider-value="[3.4,16.0]"/> <b>17.0</b>
           </div>
           <div class="input-group">
-            <label for="min_id">I.D. min</label>
-            <input type="number" name="min_id" class="form-control">
-            <label for="max_id">I.D. max</label>
-            <input type="number" name="max_id" class="form-control">
+            <label for="inner_diameter">I.D.</label>
+            <b>0.100</b><input id="inner_diameter" name="inner_diameter" type="text" class="span2" value="" data-slider-min="0.100" data-slider-max="0.400" data-slider-step="0.001" data-slider-value="[0.118,0.386]"/> <b>0.400</b>
           </div>
           <div class="input-group">
-            <label for="min_id">O.D. min</label>
-            <input type="number" name="min_id" class="form-control">
-            <label for="max_id">O.D. max</label>
-            <input type="number" name="max_id" class="form-control">
+            <label for="outer_diameter">O.D.</label>
+            <b>0.150</b><input id="outer_diameter" name="outer_diameter" type="text" class="span2" value="" data-slider-min="0.150" data-slider-max="0.450" data-slider-step="0.001" data-slider-value="[0.176,0.421]"/> <b>0.450</b>
           </div>
           <div class="input-group">
             <label for="category">Category</label>
@@ -58,8 +52,8 @@
             </select>
           </div>
           <div class="input-group">
-            <label for="straightness">Straightness lower than</label>
-            <input type="number" name="straightness" class="form-control">
+            <label for="straightness">Straightness</label>
+            <b>0.001</b><input id="straightness" name="straightness" type="text" class="span2" value="" data-slider-min="0.001" data-slider-max="0.006" data-slider-step="0.0005" data-slider-value="[0.001,0.006]"/> <b>0.006</b>
           </div>
         </div>
       </div>
@@ -99,6 +93,7 @@
     <script src="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"></script>
     <script src="https://kit.fontawesome.com/eae292b011.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/11.0.2/bootstrap-slider.min.js" integrity="sha512-f0VlzJbcEB6KiW8ZVtL+5HWPDyW1+nJEjguZ5IVnSQkvZbwBt2RfCBY0CBO1PsMAqxxrG4Di6TfsCPP3ZRwKpA==" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
 </body>
 </html>

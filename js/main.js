@@ -1,5 +1,6 @@
 $(document).ready(function(){
     let $table = $('.table');
+
     $table.bootstrapTable();
 
     load();
@@ -21,6 +22,7 @@ $(document).ready(function(){
             });
 
             $('select').select2();
+            $('.span2').slider({});
         })();
     }
 
