@@ -22,7 +22,6 @@ $(document).ready(function(){
             });
 
             $('select').select2();
-            $('.span2').slider({});
         })();
     }
 
