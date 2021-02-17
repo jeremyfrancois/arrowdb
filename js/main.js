@@ -70,29 +70,33 @@ $(document).ready(function(){
         let filteredData = $.grep(data, function(arrow){
             let ok = true;
             if(filters.gpi && filters.gpi.length > 0){
-                let gpi_min = filters.gpi[0];
-                let gpi_max = filters.gpi[1];
+                let gpi = filters.gpi.split(',');
+                let gpi_min = Number(filters.gpi[0]);
+                let gpi_max = Number(filters.gpi[1]);
                 if(arrow.weight < gpi_min || arrow.weight > gpi_max)
                 ok = false;
             }
 
             if(filters.straightness && filters.straightness.length > 0){
-                let straightness_min = filters.straightness[0];
-                let straightness_max = filters.straightness[1];
+                let straightness = filters.straightness.split(',');
+                let straightness_min = Number(straightness[0]);
+                let straightness_max = Number(straightness[1]);
                 if(arrow.straightness < straightness_min || arrow.straightness > straightness_max)
                 ok = false;
             }
 
             if(filters.outer_diameter && filters.outer_diameter.length > 0){
-                let outer_diameter_min = filters.outer_diameter[0];
-                let outer_diameter_max = filters.outer_diameter[1];
+                let outer_diameter = filters.outer_diameter.split(',');
+                let outer_diameter_min = Number(outer_diameter[0]);
+                let outer_diameter_max = Number(outer_diameter[1]);
                 if(arrow.outer_diameter < outer_diameter_min || arrow.outer_diameter > outer_diameter_max)
                 ok = false;
             }
 
             if(filters.inner_diameter && filters.inner_diameter.length > 0){
-                let inner_diameter_min = filters.inner_diameter[0];
-                let inner_diameter_max = filters.inner_diameter[1];
+                let inner_diameter = filters.inner_diameter.split(',');
+                let inner_diameter_min = Number(inner_diameter[0]);
+                let inner_diameter_max = Number(inner_diameter[1]);
                 if(arrow.inner_diameter < inner_diameter_min || arrow.inner_diameter > inner_diameter_max)
                 ok = false;
             }
