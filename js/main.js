@@ -1,9 +1,11 @@
 $(document).ready(function(){
     let $table = $('.table');
-
+    let data = [];
+    let filter_ = {};
     $table.bootstrapTable();
 
     load();
+    $('#gpi').on('input', onChangeGPIRange);
 
     function load(){
         (async () => {
@@ -33,7 +35,23 @@ $(document).ready(function(){
             arrows.push(arrow);
         });
         $table.bootstrapTable('append', arrows);
+        Array.prototype.push.apply(data, arrows);
     }
+
+    function onChangeGPIRange(){
+        console.log($(this).boostrapSlider('getValue'));
+        // filter($.extend(filter_,{"gpi" : $(this).val()}));
+    }
+
+    function filter(filters){
+        // let filteredData = $.grep(data, function(arrow){
+        //     let ok = true;
+        //     if(filters.gpi){
+        //         let gpi_min = 
+        //     }
+        // });
+    }
+
 });
 
 function straightnessFormatter(value){
