@@ -13,8 +13,8 @@ $(document).ready(function(){
 
             brands.forEach(brand => {
                 (async () => {
-                    $('#brand').append(new Option(brand, brand.charAt(0).toUpperCase() + brand.slice(1)));
-                    const fetchModels = await fetch(`resources/brands/${brand}.json`);
+                    $('#brand').append(new Option(brand.label, brand.label.charAt(0).toUpperCase() + brand.label.slice(1)));
+                    const fetchModels = await fetch(`resources/brands/${brand.code}.json`);
                     const data = await fetchModels.json();
                     data.forEach(model => populate(model));
                 })();

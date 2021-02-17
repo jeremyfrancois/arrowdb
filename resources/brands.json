@@ -1,1 +1,30 @@
-["victory", "blackeagle", "goldtip", "easton", "bearpaw", "beman", "carbonexpress"]
+[
+    { 
+        "label" : "Victory",
+        "code" : "victory"
+    }, 
+    { 
+        "label" : "Black Eagle",
+        "code" : "blackeagle"
+    },
+    { 
+        "label" : "Gold Tip",
+        "code" : "goldtip"
+    },
+    { 
+        "label" : "Easton",
+        "code" : "easton"
+    },
+    { 
+        "label" : "Bearpaw",
+        "code" : "bearpaw"
+    },
+    { 
+        "label" : "Beman",
+        "code" : "beman"
+    },
+    { 
+        "label" : "Carbon Express",
+        "code" : "carbonexpress"
+    }
+]
