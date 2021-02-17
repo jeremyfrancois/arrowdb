@@ -5,7 +5,14 @@ $(document).ready(function(){
     $table.bootstrapTable();
 
     load();
+    
     $('#gpi').on('slideStop', onChangeGPIRange);
+    $('#outer_diameter').on('slideStop', onChangeODRange);
+    $('#inner_diameter').on('slideStop', onChangeIDRange);
+    $('#straightness').on('slideStop', onChangeStraightnessRange);
+    $('#model').on('input', onChangeModel);
+    $('#brand').on('change', onChangeBrand);
+    $('#category').on('change', onChangeCategory);
 
     function load(){
         (async () => {
