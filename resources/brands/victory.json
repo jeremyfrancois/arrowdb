@@ -148,7 +148,7 @@
         ],
         "length" : 31,
         "inner_diameter" : 0.245,
-        "straightness" : [0.01,0.003,0.006],
+        "straightness" : [0.001,0.003,0.006],
         "insert" : 22,
         "nock" : 9,
         "weight_tolerance" : 0.5,
