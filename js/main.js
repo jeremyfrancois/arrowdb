@@ -211,6 +211,7 @@ function colorFormatter(value){
                 html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
                 break;
             default : 
+                html += val.trim()
                 break;
         }
     });
