@@ -130,15 +130,15 @@ $(document).ready(function(){
                 }
             }
 
-            if(filters.brands && filters.brands.length > 0 && !$.inArray(arrow.brand,filters.brands)){
+            if(filters.brands && filters.brands.length > 0 && $.inArray(arrow.brand,filters.brands) < 0){
                 ok = false;
             }
 
-            if(filters.categories && filters.categories.length > 0 && !$.inArray(arrow.category,filters.categories)){
+            if(filters.categories && filters.categories.length > 0 && $.inArray(arrow.category,filters.categories) < 0){
                 ok = false;
             }
             
-            if(filters.model && filters.model.length > 0 && !arrow.model.includes(filters.model)){
+            if(filters.model && filters.model.length > 0 && !arrow.model.toUpperCase().includes(filters.model.toUpperCase())){
                 ok = false;
             }
         }
