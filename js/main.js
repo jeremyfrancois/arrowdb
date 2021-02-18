@@ -82,12 +82,12 @@ $(document).ready(function(){
     }
 
     function onChangeBrand(){
-        $.extend(filter_,{"brands" : $(this).select2('data')});
+        $.extend(filter_,{"brands" : $(this).val()});
         $table.bootstrapTable('filterBy',filter_);
     }
 
     function onChangeCategory(){
-        $.extend(filter_,{"categories" : $(this).select2('data')});
+        $.extend(filter_,{"categories" : $(this).val()});
         $table.bootstrapTable('filterBy',filter_);
     }
 
