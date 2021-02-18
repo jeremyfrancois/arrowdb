@@ -107,7 +107,7 @@ $(document).ready(function(){
                 }
             }
 
-            if(filters.brand && filters.brand.length > 0 && $.inArray(arrow.brand,filters.brand) < 0){
+            if(filters.brand && filters.brand.length > 0 && $.inArray(arrow.maker,filters.brand) < 0){
                 ok = false;
             }
 
