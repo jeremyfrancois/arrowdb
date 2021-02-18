@@ -5,6 +5,10 @@ $(document).ready(function(){
     $table.bootstrapTable();
 
     load();
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
     
     $('#spine, #gpi, #outer_diameter, #inner_diameter, #straightness').on('slideStop', onChangeFilter);
     $('#model').on('input', onChangeFilter);
@@ -37,7 +41,9 @@ $(document).ready(function(){
                 })();
             });
 
-            $('select').select2();
+            $('select').select2({
+                theme: "bootstrap4"
+            });
         })();
     }
 
@@ -156,13 +162,13 @@ function categoryFormatter(value){
     values.forEach(val => {
         switch(val.trim()){
             case 'target':
-                html += '<i class="fas fa-bullseye"></i>&nbsp;';
+                html += '<i class="fas fa-bullseye" data-bs-toggle="tooltip" data-bs-placement="top" title="Target"></i>&nbsp;';
                 break;
             case 'hunting':
-                html += '<i class="fas fa-tree"></i>&nbsp;';
+                html += '<i class="fas fa-campground" data-bs-toggle="tooltip" data-bs-placement="top" title="Hunting"></i>&nbsp;';
                 break;
             case 'traditional':
-                html += '<i class="fas fa-feather-alt"></i>&nbsp;';
+                html += '<i class="fas fa-feather-alt" data-bs-toggle="tooltip" data-bs-placement="top" title="Traditional"></i>&nbsp;';
                 break;
         }
     });
