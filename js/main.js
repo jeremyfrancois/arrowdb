@@ -41,7 +41,18 @@ $(document).ready(function(){
                 })();
             });
 
-            $('select').select2();
+            function iformat(icon) {
+                var originalOption = icon.element;
+                return $('<span><i class="fa ' + $(originalOption).data('icon') + '"></i>&nbsp;' + icon.text + '</span>');
+            }
+
+            $('.#category').select2({
+                width: "100%",
+                templateSelection: iformat,
+                templateResult: iformat,
+                allowHtml: true
+            });
+            $('.#brand').select2();
         })();
     }
 
