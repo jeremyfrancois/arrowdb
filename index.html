@@ -24,82 +24,86 @@
       <h2 style="text-align : center;"><em class="fas fa-circle-notch fa-spin"></em>&nbsp;Loading arrows...</h2>
     </div>
     <div id="main" class="row justify-content-md-center" style="display: none;">
-        <form>
-          <h3>Filters</h3>
-          <div class="mb-3">
-            <label for="model" class="form-label"><strong>Model :</strong></label>
-            <input type="text" name="model" class="form-control">
-          </div>
-          <div class="mb-3">
-            <label for="brand" class="form-label"><strong>Brand :</strong></label>
-            <select id="brand" name="brand" class="form-control" multiple="true">
-            </select>
-          </div>
-          <div class="mb-3">
-            <label for="gpi" class="form-label"><strong>G.P.I. :</strong></label>
-            <div class="row align-items-center">
-              <div class="col">
-                <small>3</small>
+        <a class="btn btn-default" data-bs-toggle="collapse" href="#filters" role="button" aria-expanded="false" aria-controls="filters"><em class="fas fa-filter"></em>&nbsp;Filter...</h3>
+        <form id="filters">
+          <div class="row">
+            <div class="mb-3 col">
+              <label for="model" class="form-label"><strong>Model :</strong></label>
+              <input type="text" name="model" class="form-control">
+            </div>
+            <div class="mb-3 col">
+              <label for="gpi" class="form-label"><strong>G.P.I. :</strong></label>
+              <div class="row align-items-center">
+                <div class="col">
+                  <small>3</small>
+                </div>
+                <div class="col-8">
+                  <input id="gpi" name="gpi" type="text" class="span2" value="" data-slider-min="3" data-provide="slider" data-slider-max="17" data-slider-step="0.1" data-slider-value="[3.4,16.0]"/>
+                </div>
+                <div class="col">
+                  <small>17</small>
+                </div>
               </div>
-              <div class="col-8">
-                <input id="gpi" name="gpi" type="text" class="span2" value="" data-slider-min="3" data-provide="slider" data-slider-max="17" data-slider-step="0.1" data-slider-value="[3.4,16.0]"/>
+            </div>
+            <div class="mb-3 col">
+              <label for="inner_diameter" class="form-label"><strong>I.D. :</strong></label>
+              <div class="row align-items-center">
+                <div class="col">
+                  <small>0.100</small>
+                </div>
+                <div class="col-8">
+                  <input id="inner_diameter" name="inner_diameter" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.100" data-slider-max="0.400" data-slider-step="0.001" data-slider-value="[0.118,0.386]"/>
+                </div>
+                <div class="col">
+                  <small>0.400</small>
+                </div>
               </div>
-              <div class="col">
-                <small>17</small>
+            </div>
+            <div class="mb-3 col">
+              <label for="outer_diameter" class="form-label"><strong>O.D. :</strong></label>
+              <div class="row align-items-center">
+                <div class="col">
+                  <small>0.150</small>
+                </div>
+                <div class="col-8">
+                  <input id="outer_diameter" name="outer_diameter" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.150" data-slider-max="0.450" data-slider-step="0.001" data-slider-value="[0.176,0.421]"/>
+                </div>
+                <div class="col">
+                  <small>0.450</small>
+                </div>
+              </div>
+            </div>
+            <div class="mb-3 col">
+              <label for="straightness" class="form-label"><strong>Straightness :</strong></label>
+              <div class="row align-items-center">
+                <div class="col">
+                  <small>0.001</small>
+                </div>
+                <div class="col-8">
+                  <input id="straightness" name="straightness" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.001" data-slider-max="0.006" data-slider-step="0.0005" data-slider-value="[0.001,0.006]"/>
+                </div>
+                <div class="col">
+                  <small>0.006</small>
+                </div>
               </div>
             </div>
           </div>
-          <div class="mb-3">
-            <label for="inner_diameter" class="form-label"><strong>I.D. :</strong></label>
-            <div class="row align-items-center">
-              <div class="col">
-                <small>0.100</small>
-              </div>
-              <div class="col-8">
-                <input id="inner_diameter" name="inner_diameter" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.100" data-slider-max="0.400" data-slider-step="0.001" data-slider-value="[0.118,0.386]"/>
-              </div>
-              <div class="col">
-                <small>0.400</small>
-              </div>
+          <div class="row">
+            <div class="mb-3 col">
+              <label for="brand" class="form-label"><strong>Brand :</strong></label>
+              <select id="brand" name="brand" class="form-control" multiple="true">
+              </select>
+            </div>
+            
+            <div class="mb-3 col">
+              <label for="category" class="form-label"><strong>Category :</strong></label>
+              <select name="category" multiple="true" class="form-control">
+                <option value="target" selected><em class="fas fa-bullseye"></em>&nbsp;Target</option>
+                <option value="hunting" selected><em class="fas fa-tree"></em>&nbsp;Hunting</option>
+                <option value="traditional" selected><em class="fas fa-feather-alt"></em>&nbsp;Traditional</option>
+              </select>
             </div>
           </div>
-          <div class="mb-3">
-            <label for="outer_diameter" class="form-label"><strong>O.D. :</strong></label>
-            <div class="row align-items-center">
-              <div class="col">
-                <small>0.150</small>
-              </div>
-              <div class="col-8">
-                <input id="outer_diameter" name="outer_diameter" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.150" data-slider-max="0.450" data-slider-step="0.001" data-slider-value="[0.176,0.421]"/>
-              </div>
-              <div class="col">
-                <small>0.450</small>
-              </div>
-            </div>
-          </div>
-          <div class="mb-3">
-            <label for="straightness" class="form-label"><strong>Straightness :</strong></label>
-            <div class="row align-items-center">
-              <div class="col">
-                <small>0.001</small>
-              </div>
-              <div class="col-8">
-                <input id="straightness" name="straightness" type="text" class="span2" value="" data-provide="slider" data-slider-min="0.001" data-slider-max="0.006" data-slider-step="0.0005" data-slider-value="[0.001,0.006]"/>
-              </div>
-              <div class="col">
-                <small>0.006</small>
-              </div>
-            </div>
-          </div>
-          <div class="mb-3">
-            <label for="category" class="form-label"><strong>Category :</strong></label>
-            <select name="category" multiple="true" class="form-control">
-              <option value="target" selected><em class="fas fa-bullseye"></em>&nbsp;Target</option>
-              <option value="hunting" selected><em class="fas fa-tree"></em>&nbsp;Hunting</option>
-              <option value="traditional" selected><em class="fas fa-feather-alt"></em>&nbsp;Traditional</option>
-            </select>
-          </div>
-
         </form>
 
       <table class="table" data-sortable="true" data-pagination="true" data-page-size="15" data-page-list="[15, 30, 45, 60, 90, All]">
