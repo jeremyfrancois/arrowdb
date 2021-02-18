@@ -5,3 +5,7 @@ body {
 .slider-selection {
 	background: #81bfde;
 }
+
+.row .select2 {
+    display : flex;
+}
