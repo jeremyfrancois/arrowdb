@@ -24,10 +24,10 @@ $(document).ready(function(){
             let loadedBrands = [];
             brands.forEach(brand => {
                 (async () => {
-                    $('#brand').append(new Option(brand.label, brand.label.charAt(0).toUpperCase() + brand.label.slice(1), true, true));
-                    const fetchModels = await fetch(`resources/brands/${brand.code}.json`);
-                    const data = await fetchModels.json();
-                    data.forEach(model => populate(model));
+                    $('#brand').append(new Option(brand, brand, true, true));
+                    const fetchModels = await fetch(`resources/brands/${brand}.json`);
+                    const models = await fetchModels.json();
+                    models.forEach(model => populate(model));
                     loadedBrands.push(brand);
 
                     if(loadedBrands.length === brands.length){
