@@ -24,7 +24,6 @@
       <h2 style="text-align : center;"><em class="fas fa-circle-notch fa-spin"></em>&nbsp;Loading arrows...</h2>
     </div>
     <div id="main" class="row justify-content-md-center" style="display: none;">
-      <div class="col-2">
         <form>
           <h3>Filters</h3>
           <div class="mb-3">
@@ -102,34 +101,32 @@
           </div>
 
         </form>
-      </div>
-      <div class="col-8">
-        <table class="table" data-sortable="true" data-pagination="true" data-page-size="50">
-          <thead>
-            <tr>
-              <th data-field="model" data-sortable="true">Model</th>
-              <th data-field="maker" data-sortable="true">Brand</th>
+
+      <table class="table" data-sortable="true" data-pagination="true" data-page-size="15" data-page-list="[15, 30, 45, 60, 90, All]">
+        <thead>
+          <tr>
+            <th data-field="model" data-sortable="true">Model</th>
+            <th data-field="maker" data-sortable="true">Brand</th>
                       
-              <th data-field="spine" data-sortable="true">Spine</th>
+            <th data-field="spine" data-sortable="true">Spine</th>
                     
-              <th data-field="weight" data-sortable="true">G.P.I.</th>
+            <th data-field="weight" data-sortable="true">G.P.I.</th>
 
-              <th data-field="inner_diameter" data-sortable="true">I.D.</th>
-              <th data-field="outer_diameter" data-sortable="true">O.D.</th>
+            <th data-field="inner_diameter" data-sortable="true">I.D.</th>
+            <th data-field="outer_diameter" data-sortable="true">O.D.</th>
 
-              <th data-field="straightness" data-formatter="straightnessFormatter">Straightness</th>
+            <th data-field="straightness" data-formatter="straightnessFormatter">Straightness</th>
 
-              <th data-field="weight_tolerance" data-formatter="weightToleranceFormatter" data-sortable="true">Weight Tol.</th>
+            <th data-field="weight_tolerance" data-formatter="weightToleranceFormatter" data-sortable="true">Weight Tol.</th>
 
-              <th data-field="category" data-sortable="true" data-formatter="categoryFormatter">Category</th>
+            <th data-field="category" data-sortable="true" data-formatter="categoryFormatter">Category</th>
 
-              <th data-field="color" data-formatter="colorFormatter">Color</th>
+            <th data-field="color" data-formatter="colorFormatter">Color</th>
 
-              <th data-field="link" data-formatter="linkFormatter"><i class="fa fa-globe"></i></th>
-            </tr>
-          </thead>
-        </table>
-      </div>
+            <th data-field="link" data-formatter="linkFormatter"><i class="fa fa-globe"></i></th>
+          </tr>
+        </thead>
+      </table>
     </div>
   </div>
 
