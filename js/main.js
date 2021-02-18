@@ -6,13 +6,9 @@ $(document).ready(function(){
 
     load();
     
-    $('#gpi').on('slideStop', onChangeGPIRange);
-    $('#outer_diameter').on('slideStop', onChangeODRange);
-    $('#inner_diameter').on('slideStop', onChangeIDRange);
-    $('#straightness').on('slideStop', onChangeStraightnessRange);
-    $('#model').on('input', onChangeModel);
-    $('#brand').on('change', onChangeBrand);
-    $('#category').on('change', onChangeCategory);
+    $('#spine, #gpi, #outer_diameter, #inner_diameter, #straightness').on('slideStop', onChangeFilter);
+    $('#model').on('input', onChangeFilter);
+    $('#brand, #category').on('change', onChangeFilter);
 
     $table.bootstrapTable('refreshOptions', {
         filterOptions: {
@@ -56,44 +52,25 @@ $(document).ready(function(){
         Array.prototype.push.apply(data, arrows);
     }
 
-    function onChangeGPIRange(){
-        $.extend(filter_,{"gpi" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeODRange(){
-        $.extend(filter_,{"outer_diameter" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeIDRange(){
-        $.extend(filter_,{"inner_diameter" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeStraightnessRange(){
-        $.extend(filter_,{"straightness" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeModel(){
-        $.extend(filter_,{"model" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeBrand(){
-        $.extend(filter_,{"brands" : $(this).val()});
-        $table.bootstrapTable('filterBy',filter_);
-    }
-
-    function onChangeCategory(){
-        $.extend(filter_,{"categories" : $(this).val()});
+    function onChangeFilter(){
+        let newFilter = {};
+        newFilter[$(this).attr('name')] = $(this).val();
+        $.extend(filter_,newFilter);
         $table.bootstrapTable('filterBy',filter_);
     }
 
     function filter(arrow,filters){
-            let ok = true;
-            if(filters){
+        let ok = true;
+        if(filters){
+            if(filters.spine && filters.spine.length > 0){
+                let spine = filters.spine.split(',');
+                let spine_min = Number(spine[0]);
+                let spine_max = Number(spine[1]);
+                if(arrow.spine < spine_min || arrow.spine > spine_max){
+                    ok = false;
+                } 
+            }
+
             if(filters.gpi && filters.gpi.length > 0){
                 let gpi = filters.gpi.split(',');
                 let gpi_min = Number(gpi[0]);

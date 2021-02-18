@@ -30,9 +30,20 @@
         <form id="filters" class="collapse">
           <div class="row">
             <div class="mb-3 col">
-              <label for="model" class="form-label"><strong>Model :</strong></label>
-              <input id="model" type="text" name="model" class="form-control">
+              <label for="spine" class="form-label"><strong>Spine :</strong></label>
+              <div class="row align-items-center">
+                <div class="col" style="text-align : right;">
+                  <small>100</small>
+                </div>
+                <div class="col-7 gx-1">
+                  <input id="spine" name="spine" type="text" class="span2" value="" data-slider-min="100" data-provide="slider" data-slider-max="2000" data-slider-step="20" data-slider-value="[100,2000]"/>
+                </div>
+                <div class="col">
+                  <small>2000</small>
+                </div>
+              </div>
             </div>
+
             <div class="mb-3 col">
               <label for="gpi" class="form-label"><strong>G.P.I. :</strong></label>
               <div class="row align-items-center">
@@ -91,6 +102,11 @@
             </div>
           </div>
           <div class="row">
+            <div class="mb-3 col">
+              <label for="model" class="form-label"><strong>Model :</strong></label>
+              <input id="model" type="text" name="model" class="form-control">
+            </div>
+
             <div class="mb-3 col">
               <label for="brand" class="form-label"><strong>Brand :</strong></label>
               <select id="brand" name="brand" class="form-control" multiple="true">
