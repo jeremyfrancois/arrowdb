@@ -46,13 +46,13 @@ $(document).ready(function(){
                 return $('<span><i class="fa ' + $(originalOption).data('icon') + '"></i>&nbsp;' + icon.text + '</span>');
             }
 
-            $('.#category').select2({
+            $('#category').select2({
                 width: "100%",
                 templateSelection: iformat,
                 templateResult: iformat,
                 allowHtml: true
             });
-            $('.#brand').select2();
+            $('#brand').select2();
         })();
     }
 
