@@ -107,11 +107,11 @@ $(document).ready(function(){
                 }
             }
 
-            if(filters.brands && filters.brands.length > 0 && $.inArray(arrow.brand,filters.brands) < 0){
+            if(filters.brand && filters.brand.length > 0 && $.inArray(arrow.brand,filters.brand) < 0){
                 ok = false;
             }
 
-            if(filters.categories && filters.categories.length > 0 && $.inArray(arrow.category,filters.categories) < 0){
+            if(filters.category && filters.category.length > 0 && $.inArray(arrow.category,filters.category) < 0){
                 ok = false;
             }
             
