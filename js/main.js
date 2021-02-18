@@ -174,21 +174,12 @@ function colorFormatter(value){
     let html = '';
     values.forEach(val => {
         switch(val.trim()){
-            case 'wood':
-                html += '<img src="img/wood.jfif" height="15px" width="15px">';
-                break;
             case 'black':
             case 'black carbon':
                 html += '<img src="img/black carbon.jfif" height="15px" width="15px">';
                 break;
-            case 'black carbon weave':
-                html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
-                break;
-            case 'traditional':
-                html += '<img src="img/black carbon weave.jfif" height="15px" width="15px">';
-                break;
             default : 
-                html += val.trim()
+                html += `<img src="img/${val.trim()}.jfif" height="15px" width="15px">`;
                 break;
         }
     });
