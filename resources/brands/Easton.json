@@ -1,5 +1,54 @@
 [
     {
+        "model" : "Sonic 6.0",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/sonic-arrow-6-0/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.5,
+                "outer_diameter" : 0.291,
+                "length" : 32.5
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.8,
+                "outer_diameter" : 0.286,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 7.8,
+                "outer_diameter" : 0.279,
+                "length" : 31.5
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.2,
+                "outer_diameter" : 0.275,
+                "length" : 31
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "outer_diameter" : 0.273,
+                "length" : 30.5
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.8,
+                "outer_diameter" : 0.268,
+                "length" : 30.5
+            }
+        ],
+        "inner_diameter" : 0.236,
+        "straightness" : [0.003],
+        "insert" : 18,
+        "nock" : 9,
+        "color" : "black"
+    },
+    {
         "model" : "Full Metal Jacket 4MM",
         "maker" : "Easton",
         "link" : "https://eastonarchery.com/arrows_/4mm-fmj/",
@@ -927,6 +976,47 @@
         "color" : "black carbon"
     },
     {
+        "model" : "Vector",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/vector-2/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 600,
+                "weight" : 7.6,
+                "length" : 32,
+                "outer_diameter" : 0.228
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.2,
+                "length" : 31,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.4,
+                "length" : 30,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 1200,
+                "weight" : 5.1,
+                "length" : 29,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1400,
+                "weight" : 4.2,
+                "length" : 28,
+                "outer_diameter" : 0.206
+            }
+        ],
+        "inner_diameter" : 0.157,
+        "nock" : 7,
+        "color" : "black carbon"
+    },
+    {
         "model" : "Inspire",
         "maker" : "Easton",
         "link" : "https://eastonarchery.com/arrows_/inspire/",
@@ -1063,6 +1153,85 @@
         "nock" : 20,
         "straightness" : [0.002],
         "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Superdrive micro",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/superdrive-micro/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 325,
+                "weight" : 8.1,
+                "length" : 33.25,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 375,
+                "weight" : 7.4,
+                "length" : 33,
+                "outer_diameter" : 0.228
+            },
+            {
+                "spine" : 425,
+                "weight" : 6.8,
+                "length" : 32.75,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 475,
+                "weight" : 6.4,
+                "length" : 32.5,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 525,
+                "weight" : 6.1,
+                "length" : 32.25,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 575,
+                "weight" : 5.9,
+                "length" : 32,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 625,
+                "weight" : 5.7,
+                "length" : 31.75,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 675,
+                "weight" : 5.6,
+                "length" : 31.5,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.5,
+                "length" : 31.25,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 850,
+                "weight" : 5.3,
+                "length" : 31,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 950,
+                "weight" : 5.1,
+                "length" : 30.75,
+                "outer_diameter" : 0.210
+            }
+        ],
+        "nock" : 6,
+        "straightness" : [0.002],
+        "inner_diameter" : 0.157,
+        "weight_tolerance" : 1,
         "color" : "black carbon"
     },
     {

@@ -1,0 +1,153 @@
+[
+    {
+        "model" : "Cougar",
+        "maker" : "DK Bow Factory",
+        "link" : "https://shop.dk-bowfactory.de/gb/carbon/311-dk-cougar-006.html",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 11.63,
+                "outer_diameter" : 0.256
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.23,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.08,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.14,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.44,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.95,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.86,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.5,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.6,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.6,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1500,
+                "weight" : 3.9,
+                "outer_diameter" : 0.199
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.4,
+                "outer_diameter" : 0.197
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.165,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Panther",
+        "maker" : "DK Bow Factory",
+        "link" : "https://shop.dk-bowfactory.de/gb/carbon/308-dk-panther-006.html",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.04,
+                "outer_diameter" : 0.300
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.46,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.26,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.54,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.8,
+                "outer_diameter" : 0.276
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006, 0.001],
+        "inner_diameter" : 0.244,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Gungnir",
+        "maker" : "DK Bow Factory",
+        "link" : "https://shop.dk-bowfactory.de/gb/carbon/335-dk-gugnir-006.html",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 5.5,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 600,
+                "weight" : 5,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.5,
+                "outer_diameter" : 0.203
+            },            
+            {
+                "spine" : 800,
+                "weight" : 3.9,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 900,
+                "weight" : 3.75,
+                "outer_diameter" : 0.197
+            },
+            {
+                "spine" : 1000,
+                "weight" : 3.6,
+                "outer_diameter" : 0.195
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.006, 0.001],
+        "inner_diameter" : 0.165,
+        "color" : "black carbon"
+    }
+]

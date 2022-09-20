@@ -283,7 +283,7 @@
     {
         "model" : "Kinetic Pierce",
         "maker" : "Gold Tip",
-        "link" : "https://www.goldtip.com/Hunting/Kinetic-Series/Kinetic-Pierce.aspx",
+        "link" : "https://www.goldtip.com/hunting-arrows/kinetic-series/kinetic-pierce-hunting-arrows/P01385.html",
         "category" : "hunting / target",
         "specs" : [
             {
@@ -320,6 +320,50 @@
         "inner_diameter" : 0.166,
         "straightness" : [0.006],
         "nock" : 5.3,
+        "weight_tolerance" : 2,
+        "color" : "black"
+    },
+    {
+        "model" : "Hunter XT",
+        "maker" : "Gold Tip",
+        "link" : "https://www.goldtip.com/hunting-arrows/hunter-series/hunter-xt-hunting-arrows/P01272.html",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.6,
+                "outer_diameter" : 0.309,
+                "length" : 32
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.3,
+                "outer_diameter" : 0.302,
+                "length" : 32
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "outer_diameter" : 0.300,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.295,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.3,
+                "outer_diameter" : 0.291,
+                "length" : 30
+            }
+        ],
+        "inner_diameter" : 0.246,
+        "straightness" : [0.003],
+        "nock" : 12.2,
+        "insert" : 12.1,
         "weight_tolerance" : 2,
         "color" : "black"
     },
