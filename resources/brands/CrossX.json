@@ -1,0 +1,863 @@
+[
+    {
+        "model" : "Plurima",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.07,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.34,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.76,
+                "outer_diameter" : 0.203
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.23,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.75,
+                "outer_diameter" : 0.196
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.46,
+                "outer_diameter" : 0.191
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.12,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.79,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.59,
+                "outer_diameter" : 0.185
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.35,
+                "outer_diameter" : 0.183
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.126,
+        "straightness" : [0.001, 0.005, 0.008],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Hurricane",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 7.4,
+                "outer_diameter" : 0.228
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.7,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.84,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.84,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.79,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.30,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 900,
+                "weight" : 5,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.21,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1100,
+                "weight" : 5.50,
+                "outer_diameter" : 0.213
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003, 0.008],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Maior",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.52,
+                "outer_diameter" : 0.240
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.58,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.67,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.97,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.27,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.79,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.06,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.34,
+                "outer_diameter" : 0.206
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.15,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 1300,
+                "weight" : 3.4,
+                "outer_diameter" : 0.198
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003, 0.008],
+        "color" : "black carbon"
+    },
+    
+    {
+        "model" : "Pegasus",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.13,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.10,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.45,
+                "outer_diameter" : 0.222
+            },
+            {
+                "spine" : 800,
+                "weight" : 6,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.33,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.1,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.8,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.3,
+                "outer_diameter" : 0.204
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003, 0.005],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Pegasus Octagon",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.13,
+                "length" : 32,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.10,
+                "length" : 32,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.45,
+                "length" : 32,
+                "outer_diameter" : 0.222
+            },
+            {
+                "spine" : 800,
+                "weight" : 6,
+                "length" : 32,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.33,
+                "length" : 32,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.1,
+                "length" : 32,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.8,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.3,
+                "length" : 32,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 1500,
+                "weight" : 4.1,
+                "length" : 30,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.57,
+                "length" : 28,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 2000,
+                "weight" : 3.23,
+                "length" : 28,
+                "outer_diameter" : 0.195
+            },
+            {
+                "spine" : 2500,
+                "weight" : 3.04,
+                "length" : 28,
+                "outer_diameter" : 0.193
+            }
+        ],
+        "inner_diameter" : 0.165,
+        "straightness" : [0.008],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Helios",
+        "maker" : "CrossX",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 9.25,
+                "outer_diameter" : 0.232
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.76,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.77,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.32,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.68,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.1,
+                "outer_diameter" : 0.217
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003],
+        "color" : "wood"
+    },
+    {
+        "model" : "Ambition",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.0,
+                "outer_diameter" : 0.222
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.3,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.9,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.5,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5,
+                "outer_diameter" : 0.210
+            },
+            {
+                "spine" : 1100,
+                "weight" : 4.9,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.7,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 1500,
+                "weight" : 4.2,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.9,
+                "outer_diameter" : 0.199
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Element",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 700,
+                "length" : 31,
+                "weight" : 6.08,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 900,
+                "length" : 30,
+                "weight" : 5.5,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1100,
+                "length" : 28,
+                "weight" : 4.44,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1300,
+                "length" : 28,
+                "weight" : 4.24,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 1500,
+                "length" : 28,
+                "weight" : 3.71,
+                "outer_diameter" : 0.197
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.6,
+                "length" : 28,
+                "outer_diameter" : 0.197
+            },
+            {
+                "spine" : 2000,
+                "weight" : 3.2,
+                "length" : 28,
+                "outer_diameter" : 0.197
+            }
+        ],
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Iridium",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 700,
+                "length" : 31,
+                "weight" : 5.9,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 900,
+                "length" : 30,
+                "weight" : 5.3,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1100,
+                "length" : 28,
+                "weight" : 4.4,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1300,
+                "length" : 28,
+                "weight" : 4.1,
+                "outer_diameter" : 0.202
+            },
+            {
+                "spine" : 1500,
+                "length" : 28,
+                "weight" : 3.6,
+                "outer_diameter" : 0.197
+            }
+        ],
+        "inner_diameter" : 0.165,
+        "straightness" : [0.003],
+        "color" : "yellow / white / orange / green"
+    },
+    {
+        "model" : "Raptor",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 8.51,
+                "outer_diameter" : 0.262
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.16,
+                "outer_diameter" : 0.261
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.17,
+                "outer_diameter" : 0.254
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.77,
+                "outer_diameter" : 0.250
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.97,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.58,
+                "outer_diameter" : 0.244
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Avatar",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 8.15,
+                "outer_diameter" : 0.262
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.87,
+                "outer_diameter" : 0.254
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.08,
+                "outer_diameter" : 0.248
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.74,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.06,
+                "outer_diameter" : 0.242
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.53,
+                "outer_diameter" : 0.238
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003, 0.005],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Fulmen",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 6.47,
+                "outer_diameter" : 0.283
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.68,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.11,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.77,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.49,
+                "outer_diameter" : 0.273
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.002, 0.008],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Centurion",
+        "maker" : "CrossX",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.31,
+                "outer_diameter" : 0.301
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.2,
+                "outer_diameter" : 0.294
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.48,
+                "outer_diameter" : 0.290
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.006],
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Ares",
+        "maker" : "CrossX",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.42,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.45,
+                "outer_diameter" : 0.286
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.003],
+        "color" : "camo"
+    },
+    {
+        "model" : "Gladiator",
+        "maker" : "CrossX",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.6,
+                "outer_diameter" : 0.297
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.1,
+                "outer_diameter" : 0.294
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.4,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.8,
+                "outer_diameter" : 0.284
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.9,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.75,
+                "outer_diameter" : 0.280
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.006],
+        "color" : "camo"
+    },
+    {
+        "model" : "Phoenix",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.48,
+                "length" : 31,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "length" : 30,
+                "outer_diameter" : 0.283
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.64,
+                "length" : 30,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.47,
+                "length" : 30,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.49,
+                "length" : 30,
+                "outer_diameter" : 0.273
+            }
+        ],
+        "inner_diameter" : 0.244,
+        "straightness" : [0.01],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Madera",
+        "maker" : "CrossX",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 7.4,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.8,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.9,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.75,
+                "outer_diameter" : 0.280
+            }
+        ],
+        "length" : 32.5,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.006, 0.01],
+        "color" : "wood"
+    },
+    {
+        "model" : "Madera Light",
+        "maker" : "CrossX",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 5.68,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.11,
+                "outer_diameter" : 0.284
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.77,
+                "outer_diameter" : 0.282
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.49,
+                "outer_diameter" : 0.273
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.003, 0.01],
+        "color" : "wood"
+    },
+    {
+        "model" : "Fulmen XXL",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.05,
+                "outer_diameter" : 0.356
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.81,
+                "outer_diameter" : 0.354
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.23,
+                "outer_diameter" : 0.353
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.99,
+                "outer_diameter" : 0.349
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.315,
+        "straightness" : [0.002],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "XXIII",
+        "maker" : "CrossX",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.3,
+                "outer_diameter" : 0.365
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.315,
+        "straightness" : [0.001, 0.008],
+        "color" : "black carbon"
+    }
+]
