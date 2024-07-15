@@ -1,4 +1,46 @@
-[
+[    
+    {
+    "model" : "Pierce LRT",
+    "maker" : "Gold Tip",
+    "link" : "https://www.goldtip.com/hunting-arrows/pierce-lrt-hunting-arrows/PG3997784.html",
+    "category" : "hunting",
+    "specs" : [
+        {
+            "spine" : 250,
+            "weight" : 9.8,
+            "length" : 32,
+            "outer_diameter" : 0.245
+        },
+        {
+            "spine" : 300,
+            "weight" : 9.1,
+            "length" : 32,
+            "outer_diameter" : 0.240
+        },
+        {
+            "spine" : 340,
+            "weight" : 8.3,
+            "length" : 32,
+            "outer_diameter" : 0.234
+        },
+        {
+            "spine" : 400,
+            "weight" : 7.5,
+            "length" : 32,
+            "outer_diameter" : 0.229
+        },
+        {
+            "spine" : 500,
+            "weight" : 6.6,
+            "length" : 30,
+            "outer_diameter" : 0.223
+        }
+    ],
+    "inner_diameter" : 0.166,
+    "straightness" : [0.001],
+    "weight_tolerance" : 0.5,
+    "color" : "black"
+    },
     {
         "model" : "Airstrike",
         "maker" : "Gold Tip",
