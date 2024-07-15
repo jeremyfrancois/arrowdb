@@ -1,0 +1,38 @@
+[
+    {
+        "model" : "Carbon Arrow",
+        "maker" : "Border",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.38,
+                "outer_diameter" : 0.307
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.88,
+                "outer_diameter" : 0.298
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.16,
+                "outer_diameter" : 0.294
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.56,
+                "outer_diameter" : 0.292
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.88,
+                "outer_diameter" : 0.281
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.003],
+        "color" : "black carbon"
+    }
+]
