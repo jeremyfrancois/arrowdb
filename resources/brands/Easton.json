@@ -80,7 +80,7 @@
             }
         ],
         "inner_diameter" : 0.157,
-        "straightness" : [0.003,0.001],
+        "straightness" : [0.002,0.001],
         "insert" : 50,
         "nock" : 6,
         "color" : "black"
@@ -456,7 +456,7 @@
         "color" : "white"
     },
     {
-        "model" : "Carbon Legacy",
+        "model" : "Carbon Legacy 6mm",
         "maker" : "Easton",
         "link" : "https://eastonarchery.com/arrows_/carbon-legacy/",
         "category" : "traditional",
@@ -493,6 +493,46 @@
         "weight_tolerance" : 2,
         "nock" : 13,
         "insert" : 13,
+        "color" : "wood / white"
+    },
+    {
+        "model" : "Carbon Legacy 5mm",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/carbon-legacy/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 9.8,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.9,
+                "outer_diameter" : 0.267
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.0,
+                "outer_diameter" : 0.261
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.0,
+                "outer_diameter" : 0.256
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.8,
+                "outer_diameter" : 0.254
+            }
+        ],
+        "length" : 34,
+        "straightness" : [0.003],
+        "inner_diameter" : 0.204,
+        "weight_tolerance" : 2,
+        "nock" : 9,
+        "insert" : 16,
         "color" : "wood / white"
     },
     {
@@ -659,6 +699,108 @@
             }
         ],
         "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "X10 Parallel Pro",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/x10-parallel-pro/",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 10.8,
+                "length" : 34,
+                "outer_diameter" : 0.245
+            },
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "length" : 33.63,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 340,
+                "weight" : 8.9,
+                "length" : 33.63,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 380,
+                "weight" : 8.3,
+                "length" : 32.63,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 420,
+                "weight" : 7.8,
+                "length" : 32.63,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 470,
+                "weight" : 7.3,
+                "length" : 32.63,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 520,
+                "weight" : 7,
+                "length" : 32.63,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 570,
+                "weight" : 6.6,
+                "length" : 32.63,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 610,
+                "weight" : 7.3,
+                "length" : 31,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 660,
+                "weight" : 6.9,
+                "length" : 30.75,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 710,
+                "weight" : 6.5,
+                "length" : 30.5,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 810,
+                "weight" : 6.1,
+                "length" : 30,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 880,
+                "weight" : 5.9,
+                "length" : 29.5,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.5,
+                "length" : 29,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 1150,
+                "weight" : 5.5,
+                "length" : 28.5,
+                "outer_diameter" : 0.208
+            }
+        ],
+        "straightness" : [0.001],
         "inner_diameter" : 0.125,
         "weight_tolerance" : 0.5,
         "color" : "black carbon"
