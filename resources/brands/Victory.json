@@ -65,51 +65,6 @@
         "color" : "black carbon weave"
     },
     {
-        "model" : "VAP",
-        "maker" : "Victory",
-        "link" : "https://www.victoryarchery.com/vap-hunting-arrow/",
-        "category" : "hunting",
-        "specs" : [
-            {
-                "spine" : 250,
-                "weight" : 9.8,
-                "outer_diameter" : 0.244
-            },
-            {
-                "spine" : 300,
-                "weight" : 8.7,
-                "outer_diameter" : 0.237
-            },
-            {
-                "spine" : 350,
-                "weight" : 7.8,
-                "outer_diameter" : 0.232
-            },
-            {
-                "spine" : 400,
-                "weight" : 7.2,
-                "outer_diameter" : 0.227
-            },
-            {
-                "spine" : 450,
-                "weight" : 6.6,
-                "outer_diameter" : 0.223
-            },
-            {
-                "spine" : 500,
-                "weight" : 6.1,
-                "outer_diameter" : 0.218
-            }
-        ],
-        "length" : 31,
-        "inner_diameter" : 0.166,
-        "straightness" : [0.001,0.003,0.006],
-        "insert" : 35,
-        "nock" : 8,
-        "weight_tolerance" : 0.5,
-        "color" : "black carbon"
-    },
-    {
         "model" : "VForce",
         "maker" : "Victory",
         "link" : "https://www.victoryarchery.com/vforce-hunting-arrow/",
@@ -493,22 +448,22 @@
             },
             {
                 "spine" : 355,
-                "weight" : 6.4,
+                "weight" : 7.4,
                 "outer_diameter" : 0.237
             },
             {
                 "spine" : 450,
-                "weight" : 5.9,
+                "weight" : 7.4,
                 "outer_diameter" : 0.236
             },
             {
                 "spine" : 550,
-                "weight" : 5.1,
+                "weight" : 7.1,
                 "outer_diameter" : 0.234
             },
             {
                 "spine" : 630,
-                "weight" : 5.5,
+                "weight" : 7.4,
                 "outer_diameter" : 0.235
             }
         ],
@@ -552,8 +507,18 @@
         "model" : "VAP",
         "maker" : "Victory",
         "link" : "https://www.victoryarchery.com/vap-target-arrow/",
-        "category" : "target",
+        "category" : "target, hunting",
         "specs" : [
+            {
+                "spine" : 250,
+                "weight" : 9.8,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.7,
+                "outer_diameter" : 0.237
+            },
             {
                 "spine" : 350,
                 "weight" : 7.8,
