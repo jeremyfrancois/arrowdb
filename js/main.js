@@ -161,6 +161,10 @@ function weightToleranceFormatter(value){
     return value ? '+/-'+value+'gr.' : 'n/a';
 }
 
+function lengthFormatter(value){
+    return value ? value+'"' : 'n/a';
+}
+
 function linkFormatter(value){
     return value ? '<a href="'+value+'" target="_blank"><i class="fas fa-external-link-alt"></i></a>' : '';
 }
