@@ -178,7 +178,7 @@ function categoryFormatter(value){
                 html += '<i class="fas fa-bullseye" data-bs-toggle="tooltip" data-bs-placement="top" title="Target"></i>&nbsp;';
                 break;
             case 'hunting':
-                html += '<i class="fas fa-campground" data-bs-toggle="tooltip" data-bs-placement="top" title="Hunting"></i>&nbsp;';
+                html += '<i class="fas fa-tree" data-bs-toggle="tooltip" data-bs-placement="top" title="Hunting"></i>&nbsp;';
                 break;
             case 'traditional':
                 html += '<i class="fas fa-feather-alt" data-bs-toggle="tooltip" data-bs-placement="top" title="Traditional"></i>&nbsp;';
