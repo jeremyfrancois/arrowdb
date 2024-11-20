@@ -1,38 +1,74 @@
 [
     {
-        "model" : "Carbon Arrow",
+        "model" : "Raw",
         "maker" : "Border",
         "category" : "target",
         "specs" : [
             {
                 "spine" : 300,
-                "weight" : 10.38,
-                "outer_diameter" : 0.307
-            },
-            {
-                "spine" : 350,
-                "weight" : 8.88,
-                "outer_diameter" : 0.298
+                "weight" : 9.6,
+                "outer_diameter" : 0.304
             },
             {
                 "spine" : 400,
-                "weight" : 8.16,
-                "outer_diameter" : 0.294
+                "weight" : 8.3,
+                "outer_diameter" : 0.295
             },
             {
                 "spine" : 500,
-                "weight" : 7.56,
-                "outer_diameter" : 0.292
+                "weight" : 6.2,
+                "outer_diameter" : 0.283
             },
             {
                 "spine" : 600,
-                "weight" : 5.88,
-                "outer_diameter" : 0.281
+                "weight" : 5.7,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.5,
+                "outer_diameter" : 0.278
             }
         ],
         "length" : 32,
         "inner_diameter" : 0.244,
-        "straightness" : [0.003],
+        "straightness" : [0.006],
         "color" : "black carbon"
+    },
+    {
+        "model" : "Wood",
+        "maker" : "Border",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.5,
+                "outer_diameter" : 0.309
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.7,
+                "outer_diameter" : 0.298
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.8,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.1,
+                "outer_diameter" : 0.283
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.9,
+                "outer_diameter" : 0.279
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.244,
+        "straightness" : [0.006],
+        "color" : "wood"
     }
 ]
