@@ -143,27 +143,26 @@
                 "spine" : 300,
                 "weight" : 11,
                 "outer_diameter" : 0.248,
-                "straightness" : [0.001],
-                "insert" : 50
+                "straightness" : [0.001]
             },
             {
                 "spine" : 350,
                 "weight" : 9.6,
                 "outer_diameter" : 0.240,
-                "straightness" : [0.001],
-                "insert" : 50
+                "straightness" : [0.001]
+                
             },
             {
                 "spine" : 400,
                 "weight" : 8.6,
                 "outer_diameter" : 0.233,
-                "straightness" : [0.001],
-                "insert" : 50
+                "straightness" : [0.001]
             }
         ],
         "length" : 32,
         "inner_diameter" : 0.165,
         "nock" : 9,
+        "insert" : 58,
         "weight_tolerance" : 1,
         "color" : "black carbon"
     },
