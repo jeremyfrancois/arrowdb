@@ -1,0 +1,284 @@
+[
+    {
+        "model" : "Iron Oak",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-iron-oak-carbon-shafting.html",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.5,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.6,
+                "outer_diameter" : 0.264
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.6,
+                "outer_diameter" : 0.259
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "outer_diameter" : 0.254
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.1,
+                "outer_diameter" : 0.248
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.4,
+                "outer_diameter" : 0.243
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.1,
+                "outer_diameter" : 0.243
+            }
+        ],
+        "length" : 32.25,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003],
+        "insert" : 25,
+        "nock" : 9,
+        "weight_tolerance" : 1,
+        "color" : "wood"
+    },
+    {
+        "model" : "Carbon Shaft",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-carbon-shafting-by-easton-archery.html",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.1,
+                "outer_diameter" : 0.312,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 10,
+                "outer_diameter" : 0.312,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.1,
+                "outer_diameter" : 0.312,
+                "length" : 31.5
+            },
+            {
+                "spine" : 500,
+                "weight" : 8,
+                "outer_diameter" : 0.312,
+                "length" : 30.75
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003],
+        "insert" : 25,
+        "nock" : 13,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Carbon Shaft 600",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-carbon-shafting-by-easton-archery.html",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 600,
+                "weight" : 7,
+                "outer_diameter" : 0.281
+            }
+        ],
+        "length" : 30.75,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003],
+        "insert" : 25,
+        "nock" : 10,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Barebow",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-barebow-carbon-shafting.html",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 260,
+                "weight" : 12.3,
+                "outer_diameter" : 0.285,
+                "length" : 34
+            },
+            {
+                "spine" : 300,
+                "weight" : 11.5,
+                "outer_diameter" : 0.279,
+                "length" : 33.25
+            },
+            {
+                "spine" : 340,
+                "weight" : 10.3,
+                "outer_diameter" : 0.275,
+                "length" : 33
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.8,
+                "outer_diameter" : 0.279,
+                "length" : 32.75
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.9,
+                "outer_diameter" : 0.262,
+                "length" : 32.75
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.9,
+                "outer_diameter" : 0.260,
+                "length" : 32.5
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.9,
+                "outer_diameter" : 0.263,
+                "length" : 32.5
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "straightness" : [0.006],
+        "insert" : 25,
+        "nock" : 10,
+        "weight_tolerance" : 1,
+        "color" : "white"
+    },
+    {
+        "model" : "Carbon Shaft",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-carbon-shafting-by-easton-archery.html",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.1,
+                "outer_diameter" : 0.312,
+                "length" : 32.5
+            },
+            {
+                "spine" : 340,
+                "weight" : 10,
+                "outer_diameter" : 0.312,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.1,
+                "outer_diameter" : 0.312,
+                "length" : 31.5
+            },
+            {
+                "spine" : 500,
+                "weight" : 8,
+                "outer_diameter" : 0.312,
+                "length" : 30.75
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "straightness" : [0.003],
+        "insert" : 25,
+        "nock" : 13,
+        "weight_tolerance" : 2,
+        "color" : "wood"
+    },
+    {
+        "model" : "Obsidian 3K",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-obsidian-3k-carbon-shafts.html",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.6,
+                "outer_diameter" : 0.296
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.4,
+                "outer_diameter" : 0.294
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.8,
+                "outer_diameter" : 0.290
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.6,
+                "outer_diameter" : 0.284
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.003],
+        "insert" : 14,
+        "nock" : 12,
+        "weight_tolerance" : 2,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Obsidian",
+        "maker" : "Traditional Only",
+        "link" : "https://www.3riversarchery.com/traditional-only-obsidian-carbon-shafts.html",
+        "category" : "hunting / target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 7.5,
+                "outer_diameter" : 0.288
+            },
+            {
+                "spine" : 400,
+                "weight" : 7,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.282
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.5,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 700,
+                "weight" : 5,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.6,
+                "outer_diameter" : 0.272
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.003],
+        "insert" : 14,
+        "nock" : 12,
+        "weight_tolerance" : 2,
+        "color" : "black carbon"
+    }
+]

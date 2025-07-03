@@ -1557,5 +1557,55 @@
         "straightness" : [0.003],
         "weight_tolerance" : 2,
         "color" : "black carbon"
+    },
+    {
+        "model" : "5.0",
+        "maker" : "Easton",
+        "link" : "https://eastonarchery.com/arrows_/easton-5-0matchgrade/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 200,
+                "weight" : 10.6,
+                "length" : 33.5,
+                "outer_diameter" : 0.273
+            },
+            {
+                "spine" : 250,
+                "weight" : 9.5,
+                "length" : 33,
+                "outer_diameter" : 0.270
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.4,
+                "length" : 32.5,
+                "outer_diameter" : 0.264
+            },
+            {
+                "spine" : 340,
+                "weight" : 7.5,
+                "length" : 32,
+                "outer_diameter" : 0.258
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.8,
+                "length" : 31.5,
+                "outer_diameter" : 0.253
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.2,
+                "length" : 31,
+                "outer_diameter" : 0.249
+            }
+        ],
+        "inner_diameter" : 0.204,
+        "nock" : 8,
+        "insert" : 16,
+        "straightness" : [0.001],
+        "weight_tolerance" : 1,
+        "color" : "black carbon"
     }
 ]

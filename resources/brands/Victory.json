@@ -616,5 +616,85 @@
         "nock" : 7,
         "weight_tolerance" : 0.5,
         "color" : "black carbon weave"
+    },
+    {
+        "model" : "HLR",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/arrows-hunting/hlr/",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 200,
+                "weight" : 9.8,
+                "outer_diameter" : 0.271
+            },
+            {
+                "spine" : 250,
+                "weight" : 8.7,
+                "outer_diameter" : 0.265
+            },
+            {
+                "spine" : 300,
+                "weight" : 8.1,
+                "outer_diameter" : 0.261
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.3,
+                "outer_diameter" : 0.256
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.9,
+                "outer_diameter" : 0.254
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.5,
+                "outer_diameter" : 0.251
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.006, 0.003, 0.001],
+        "insert" : 50,
+        "nock" : 9,
+        "weight_tolerance" : 0.5,
+        "color" : "black carbon weave"
+    },
+    {
+        "model" : "Bamboo Trad",
+        "maker" : "Victory",
+        "link" : "https://www.victoryarchery.com/arrows-hunting/bamboo-trad/",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.9,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.2,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.5,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "outer_diameter" : 0.283
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.003],
+        "insert" : 22,
+        "nock" : 8,
+        "weight_tolerance" : 0.5,
+        "color" : "wood"
     }
 ]
