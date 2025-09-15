@@ -1,0 +1,18 @@
+{
+    "name": "ArrowDB",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "build": "sass --watch ./scss/main.scss ./css/main.css"
+    },
+    "author": "Jeremy François",
+    "license": "GNU3",
+    "devDependencies": {
+        "gh-pages": "^6.3.0",
+        "numeric": "^1.0.0"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.8"
+    }
+}
