@@ -1,6 +1,5 @@
 import * as bootstrap from 'bootstrap'
-
-const $ = require( "jquery" )( window );
+import $ from 'jquery'
 
 $(function() {
     function load(){
