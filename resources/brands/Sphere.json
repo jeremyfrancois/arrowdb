@@ -1,0 +1,1090 @@
+[
+    {
+        "model" : "Contender",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Contender-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.29,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.59,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.94,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.39,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.94,
+                "outer_diameter" : 0.196
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.52,
+                "outer_diameter" : 0.193
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.19,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.88,
+                "outer_diameter" : 0.187
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.63,
+                "outer_diameter" : 0.185
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.31,
+                "outer_diameter" : 0.182
+            },
+            {
+                "spine" : 850,
+                "weight" : 5.16,
+                "outer_diameter" : 0.181
+            },
+            {
+                "spine" : 900,
+                "weight" : 4.95,
+                "outer_diameter" : 0.179
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.56,
+                "outer_diameter" : 0.176
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.125,
+        "straightness" : [0.003],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Rival",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Rival-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.29,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.59,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.94,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.39,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.94,
+                "outer_diameter" : 0.196
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.52,
+                "outer_diameter" : 0.193
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.19,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.88,
+                "outer_diameter" : 0.187
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.63,
+                "outer_diameter" : 0.185
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.31,
+                "outer_diameter" : 0.182
+            },
+            {
+                "spine" : 850,
+                "weight" : 5.16,
+                "outer_diameter" : 0.181
+            },
+            {
+                "spine" : 900,
+                "weight" : 4.95,
+                "outer_diameter" : 0.179
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.56,
+                "outer_diameter" : 0.176
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.125,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Phantom 4.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Phantom-42-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 5.78,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.18,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.42,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.03,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 900,
+                "weight" : 3.76,
+                "outer_diameter" : 0.199
+            },
+            {
+                "spine" : 1000,
+                "weight" : 3.39,
+                "outer_diameter" : 0.196
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001, 0.003, 0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Phantom 5.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Phantom-52-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 5.56,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 500,
+                "weight" : 4.63,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 600,
+                "weight" : 4.15,
+                "outer_diameter" : 0.236
+            },
+            {
+                "spine" : 700,
+                "weight" : 3.78,
+                "outer_diameter" : 0.234
+            },
+            {
+                "spine" : 800,
+                "weight" : 3.64,
+                "outer_diameter" : 0.232
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001, 0.003, 0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "BowJob Slim",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-BowJob-Slim-420-mm-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.89,
+                "outer_diameter" : 0.243
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.44,
+                "outer_diameter" : 0.232
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.55,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.77,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.31,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.56,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.95,
+                "outer_diameter" : 0.208
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "BowJob",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-BowJob-620-mm-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.44,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 600,
+                "weight" : 6,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.35,
+                "outer_diameter" : 0.276
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Ghost 6.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Ghost-SELECT-62-Carbon",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 5.63,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 500,
+                "weight" : 4.93,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 600,
+                "weight" : 4.7,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.23,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 800,
+                "weight" : 4,
+                "outer_diameter" : 0.270
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.001,0.003,0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Ghost 5.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Ghost-52-Carbon",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 6.59,
+                "outer_diameter" : 0.252
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.63,
+                "outer_diameter" : 0.246
+            },
+            {
+                "spine" : 600,
+                "weight" : 4.85,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.40,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 800,
+                "weight" : 4,
+                "outer_diameter" : 0.235
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "straightness" : [0.001,0.003,0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Ghost 4.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Ghost-SELECT-42-Carbon",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.74,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.77,
+                "outer_diameter" : 0.222
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.93,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.36,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.09,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 900,
+                "weight" : 4.66,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.39,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 1200,
+                "weight" : 3.78,
+                "outer_diameter" : 0.199
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.001,0.003,0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Magneto",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-MagnetoSPHERE-carbone",
+        "category" : "target, hunting",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.44,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.3,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 600,
+                "weight" : 6,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.35,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.16,
+                "outer_diameter" : 0.276
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "wood, carbon weave"
+    },
+    {
+        "model" : "Magneto Slim",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-MagnetoSPHERE-Slim-carbone",
+        "category" : "target, hunting",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.89,
+                "outer_diameter" : 0.243
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.44,
+                "outer_diameter" : 0.232
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.55,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.77,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.31,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.47,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.56,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1200,
+                "weight" : 5.95,
+                "outer_diameter" : 0.209
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "wood, carbon weave"
+    },
+    {
+        "model" : "3K Xtreme",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-3K-Xtreme-carbone",
+        "category" : "target, hunting",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8.38,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.28,
+                "outer_diameter" : 0.293
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.81,
+                "outer_diameter" : 0.284
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.5,
+                "outer_diameter" : 0.283
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.22,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.28,
+                "outer_diameter" : 0.285
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "carbon weave"
+    },
+    {
+        "model" : "Snowpiercer 4.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Snowpiercer-42-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.6,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.15,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 6,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.56,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.3,
+                "outer_diameter" : 0.210
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "white"
+    },
+    {
+        "model" : "Snowpiercer 6.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Snowpiercer-62-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.290
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.2,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.15,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.82,
+                "outer_diameter" : 0.274
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "white"
+    },
+    {
+        "model" : "Lumos 4.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Lumos-42-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.6,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.15,
+                "outer_diameter" : 0.218
+            },
+            {
+                "spine" : 900,
+                "weight" : 6,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.56,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.3,
+                "outer_diameter" : 0.210
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "yellow, orange, pink"
+    },
+    {
+        "model" : "Lumos 6.2",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Lumos-62-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 8,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.4,
+                "outer_diameter" : 0.290
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.7,
+                "outer_diameter" : 0.285
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.2,
+                "outer_diameter" : 0.281
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.15,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.82,
+                "outer_diameter" : 0.274
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "orange, yellow"
+    },
+    {
+        "model" : "Exo Traditional",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-ExoSPHERE-Traditional-006-Carbone",
+        "category" : "traditional",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.7,
+                "outer_diameter" : 0.299
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.4,
+                "outer_diameter" : 0.292
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.1,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.4,
+                "outer_diameter" : 0.285
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.245,
+        "straightness" : [0.006],
+        "color" : "bamboo"
+    },
+    {
+        "model" : "Pyro Slim",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-PyroSPHERE-Slim-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.59,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.22,
+                "outer_diameter" : 0.230
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.27,
+                "outer_diameter" : 0.223
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.72,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.09,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.36,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.81,
+                "outer_diameter" : 0.206
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006, 0.002],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Pyro",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-PyroSPHERE-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.09,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.69,
+                "outer_diameter" : 0.275
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.08,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.94,
+                "outer_diameter" : 0.272
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Hunter Pro",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Hunter-Pro-carbone",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 7.67,
+                "outer_diameter" : 0.286
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.14,
+                "outer_diameter" : 0.279
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.42,
+                "outer_diameter" : 0.276
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.03,
+                "outer_diameter" : 0.272
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.78,
+                "outer_diameter" : 0.273
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Exo Prime",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-ExoSPHERE-Prime-006-Carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 9.7,
+                "outer_diameter" : 0.299
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.4,
+                "outer_diameter" : 0.292
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.1,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.4,
+                "outer_diameter" : 0.285
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Slimline Pro",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Slimline-Pro-carbone",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 400,
+                "weight" : 9.56,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.08,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.19,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.7,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.16,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.08,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.22,
+                "outer_diameter" : 0.211
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.75,
+                "outer_diameter" : 0.206
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Pioneer",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Pioneer-62-carbone_112",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 7.88,
+                "outer_diameter" : 0.292
+            },
+            {
+                "spine" : 400,
+                "weight" : 6.97,
+                "outer_diameter" : 0.287
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.83,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.23,
+                "outer_diameter" : 0.277
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.72,
+                "outer_diameter" : 0.270
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.33,
+                "outer_diameter" : 0.267
+            }
+        ],
+        "length" : 33,
+        "inner_diameter" : 0.246,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Pioneer Slim",
+        "maker" : "Sphere",
+        "link" : "https://archerie-shop.fr/Tube-SPHERE-Pioneer-Slim-carbone_125",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 500,
+                "weight" : 8.06,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.09,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.42,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.81,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.45,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.08,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.48,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.2,
+                "outer_diameter" : 0.203
+            },
+            {
+                "spine" : 1500,
+                "weight" : 3.85,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 1800,
+                "weight" : 3.58,
+                "outer_diameter" : 0.197
+            }
+        ],
+        "length" : 31,
+        "inner_diameter" : 0.166,
+        "straightness" : [0.006],
+        "color" : "black carbon"
+    }
+]
