@@ -149,5 +149,70 @@
         "straightness" : [0.006, 0.001],
         "inner_diameter" : 0.165,
         "color" : "black carbon"
+    },
+    {
+        "model" : "Tyrfing",
+        "maker" : "DK Bow Factory",
+        "link" : "https://shop.dk-bowfactory.de/gb/carbon/335-dk-gugnir-006.html",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 5.69,
+                "outer_diameter" : 0.247,
+                "straightness" : [0.006, 0.001]
+            },
+            {
+                "spine" : 400,
+                "weight" : 5.24,
+                "outer_diameter" : 0.243,
+                "straightness" : [0.006, 0.001]
+            },
+            {
+                "spine" : 500,
+                "weight" : 4.44,
+                "outer_diameter" : 0.239,
+                "straightness" : [0.006, 0.001]
+            },
+            {
+                "spine" : 600,
+                "weight" : 4.95,
+                "outer_diameter" : 0.241,
+                "straightness" : [0.006]
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.48,
+                "outer_diameter" : 0.237,
+                "straightness" : [0.006]
+            },            
+            {
+                "spine" : 800,
+                "weight" : 3.9,
+                "outer_diameter" : 0.233,
+                "straightness" : [0.006]
+            },
+            {
+                "spine" : 900,
+                "weight" : 3.78,
+                "outer_diameter" : 0.233,
+                "straightness" : [0.006]
+            },
+            {
+                "spine" : 1000,
+                "weight" : 3.79,
+                "outer_diameter" : 0.234,
+                "straightness" : [0.006]
+            },
+            {
+                "spine" : 1100,
+                "weight" : 3.49,
+                "outer_diameter" : 0.229,
+                "straightness" : [0.006]
+            }
+        ],
+        "length" : 32,
+        "inner_diameter" : 0.204,
+        "color" : "black carbon"
     }
 ]
