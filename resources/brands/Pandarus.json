@@ -1,0 +1,777 @@
+[
+    {
+        "model" : "Alpha-X",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/alpha-x",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.35,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.77,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.86,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.3,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.73,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.4,
+                "outer_diameter" : 0.272
+            }
+        ],
+        "length" : 30,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.245,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Alpha-XT",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/alpha-xt",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.1,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "outer_diameter" : 0.241
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "outer_diameter" : 0.233
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "outer_diameter" : 0.226
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.6,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.15,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 900,
+                "weight" : 6,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.48,
+                "outer_diameter" : 0.213
+            }
+        ],
+        "length" : 30,
+        "straightness" : [0.006],
+        "inner_diameter" : 0.166,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Versus",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/versus",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 6.87
+            },
+            {
+                "spine" : 350,
+                "weight" : 6.75
+            },
+            {
+                "spine" : 400,
+                "weight" : 5.75
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.31
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.315,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Precision",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/precision",
+        "category" : "hunting",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 8.35,
+                "outer_diameter" : 0.295
+            },
+            {
+                "spine" : 350,
+                "weight" : 7.77,
+                "outer_diameter" : 0.291
+            },
+            {
+                "spine" : 400,
+                "weight" : 7.3,
+                "outer_diameter" : 0.289
+            },
+            {
+                "spine" : 500,
+                "weight" : 5.86,
+                "outer_diameter" : 0.280
+            },
+            {
+                "spine" : 600,
+                "weight" : 5.3,
+                "outer_diameter" : 0.278
+            },
+            {
+                "spine" : 700,
+                "weight" : 4.73,
+                "outer_diameter" : 0.274
+            },
+            {
+                "spine" : 800,
+                "weight" : 4.4,
+                "outer_diameter" : 0.272
+            }
+        ],
+        "length" : 30,
+        "straightness" : [0.003],
+        "inner_diameter" : 0.245,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Infinity",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/infinity4d2a3aac",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.1,
+                "outer_diameter" : 0.244,
+                "length" : 32
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.5,
+                "outer_diameter" : 0.241,
+                "length" : 32
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.1,
+                "outer_diameter" : 0.233,
+                "length" : 32
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.2,
+                "outer_diameter" : 0.226,
+                "length" : 32
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.6,
+                "outer_diameter" : 0.221,
+                "length" : 32
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.15,
+                "outer_diameter" : 0.219,
+                "length" : 32
+            },
+            {
+                "spine" : 900,
+                "weight" : 6,
+                "outer_diameter" : 0.216,
+                "length" : 30
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.48,
+                "outer_diameter" : 0.213,
+                "length" : 30
+            },
+            {
+                "spine" : 1100,
+                "weight" : 5,
+                "outer_diameter" : 0.209,
+                "length" : 28
+            },
+            {
+                "spine" : 1200,
+                "weight" : 4.66,
+                "outer_diameter" : 0.207,
+                "length" : 28
+            },
+            {
+                "spine" : 1300,
+                "weight" : 4.23,
+                "outer_diameter" : 0.203,
+                "length" : 28
+            },
+            {
+                "spine" : 1400,
+                "weight" : 4,
+                "outer_diameter" : 0.201,
+                "length" : 28
+            },
+            {
+                "spine" : 1500,
+                "weight" : 3.8,
+                "outer_diameter" : 0.199,
+                "length" : 28
+            }
+        ],
+        "straightness" : [0.003],
+        "inner_diameter" : 0.166,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Champion",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/champion",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 300,
+                "weight" : 10.2,
+                "outer_diameter" : 0.244
+            },
+            {
+                "spine" : 350,
+                "weight" : 9.12,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 400,
+                "weight" : 8.15,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 450,
+                "weight" : 7.4,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 500,
+                "weight" : 6.93,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 550,
+                "weight" : 6.53,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.06,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 650,
+                "weight" : 5.81,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 700,
+                "weight" : 5.37,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.18,
+                "outer_diameter" : 0.212
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.03,
+                "outer_diameter" : 0.209
+            }
+        ],
+        "length" : 32,
+        "straightness" : [0.001],
+        "inner_diameter" : 0.166,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Ice Point",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/ice-pointee77bb06",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 9.15,
+                "length" : 32,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 400,
+                "weight" : 9,
+                "length" : 32,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.56,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.93,
+                "length" : 32,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.31,
+                "length" : 32,
+                "outer_diameter" : 0.200
+            },
+            {
+                "spine" : 600,
+                "weight" : 6.9,
+                "length" : 32,
+                "outer_diameter" : 0.196
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.5,
+                "length" : 31,
+                "outer_diameter" : 0.193
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.16,
+                "length" : 31,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 750,
+                "weight" : 5.85,
+                "length" : 31,
+                "outer_diameter" : 0.187
+            },
+            {
+                "spine" : 800,
+                "weight" : 5.56,
+                "length" : 31,
+                "outer_diameter" : 0.184
+            },
+            {
+                "spine" : 850,
+                "weight" : 5.12,
+                "length" : 30,
+                "outer_diameter" : 0.183
+            },
+            {
+                "spine" : 900,
+                "weight" : 5.12,
+                "length" : 30,
+                "outer_diameter" : 0.181
+            },
+            {
+                "spine" : 950,
+                "weight" : 4.93,
+                "length" : 30,
+                "outer_diameter" : 0.179
+            },
+            {
+                "spine" : 1000,
+                "weight" : 4.68,
+                "length" : 30,
+                "outer_diameter" : 0.175
+            }
+        ],
+        "straightness" : [0.001],
+        "inner_diameter" : 0.125,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Elite CA-390",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/elite-ca390",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.87,
+                "length" : 32,
+                "outer_diameter" : 0.239
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.81,
+                "length" : 32,
+                "outer_diameter" : 0.231
+            },
+            {
+                "spine" : 450,
+                "weight" : 9.13,
+                "length" : 32,
+                "outer_diameter" : 0.227
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.66,
+                "length" : 32,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 550,
+                "weight" : 8.28,
+                "length" : 32,
+                "outer_diameter" : 0.221
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.81,
+                "length" : 31,
+                "outer_diameter" : 0.217
+            },
+            {
+                "spine" : 650,
+                "weight" : 7.56,
+                "length" : 31,
+                "outer_diameter" : 0.215
+            },
+            {
+                "spine" : 700,
+                "weight" : 7.1,
+                "length" : 31,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 750,
+                "weight" : 6.93,
+                "length" : 31,
+                "outer_diameter" : 0.213
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.75,
+                "length" : 31,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 850,
+                "weight" : 6.5,
+                "length" : 30,
+                "outer_diameter" : 0.208
+            },
+            {
+                "spine" : 900,
+                "weight" : 6.19,
+                "length" : 30,
+                "outer_diameter" : 0.206
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.94,
+                "length" : 30,
+                "outer_diameter" : 0.204
+            }
+        ],
+        "straightness" : [0.002],
+        "inner_diameter" : 0.154,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Elite CA-320-PRO",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/elite-ca320-pro",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 340,
+                "weight" : 11.2,
+                "length" : 32,
+                "outer_diameter" : 0.224
+            },
+            {
+                "spine" : 380,
+                "weight" : 10.5,
+                "length" : 32,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 420,
+                "weight" : 9.69,
+                "length" : 32,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 470,
+                "weight" : 8.96,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 520,
+                "weight" : 8.62,
+                "length" : 32,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 570,
+                "weight" : 8.15,
+                "length" : 32,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 620,
+                "weight" : 7.76,
+                "length" : 30,
+                "outer_diameter" : 0.198
+            },
+            {
+                "spine" : 670,
+                "weight" : 7.47,
+                "length" : 30,
+                "outer_diameter" : 0.195
+            },
+            {
+                "spine" : 720,
+                "weight" : 7,
+                "length" : 30,
+                "outer_diameter" : 0.192
+            },
+            {
+                "spine" : 770,
+                "weight" : 6.96,
+                "length" : 30,
+                "outer_diameter" : 0.190
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Elite XT",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/elite-xt",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 350,
+                "weight" : 10.50,
+                "length" : 32,
+                "outer_diameter" : 0.219
+            },
+            {
+                "spine" : 400,
+                "weight" : 9.69,
+                "length" : 32,
+                "outer_diameter" : 0.214
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.96,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 500,
+                "weight" : 8.62,
+                "length" : 32,
+                "outer_diameter" : 0.204
+            },
+            {
+                "spine" : 550,
+                "weight" : 8.15,
+                "length" : 32,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.76,
+                "length" : 32,
+                "outer_diameter" : 0.199
+            },
+            {
+                "spine" : 650,
+                "weight" : 7.47,
+                "length" : 31,
+                "outer_diameter" : 0.195
+            },
+            {
+                "spine" : 700,
+                "weight" : 7,
+                "length" : 31,
+                "outer_diameter" : 0.191
+            },
+            {
+                "spine" : 750,
+                "weight" : 6.96,
+                "length" : 31,
+                "outer_diameter" : 0.190
+            },
+            {
+                "spine" : 800,
+                "weight" : 6.57,
+                "length" : 31,
+                "outer_diameter" : 0.188
+            },
+            {
+                "spine" : 850,
+                "weight" : 6.53,
+                "length" : 30,
+                "outer_diameter" : 0.186
+            },
+            {
+                "spine" : 900,
+                "weight" : 6.42,
+                "length" : 30,
+                "outer_diameter" : 0.185
+            },
+            {
+                "spine" : 900,
+                "weight" : 6.14,
+                "length" : 30,
+                "outer_diameter" : 0.184
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.89,
+                "length" : 30,
+                "outer_diameter" : 0.183
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "color" : "black carbon"
+    },
+    {
+        "model" : "Elite CA-320",
+        "maker" : "Pandarus",
+        "link" : "https://www.pandarusarchery.com/elite_ca320",
+        "category" : "target",
+        "specs" : [
+            {
+                "spine" : 325,
+                "weight" : 9.2,
+                "length" : 32,
+                "outer_diameter" : 0.229
+            },
+            {
+                "spine" : 350,
+                "weight" : 8.9,
+                "length" : 32,
+                "outer_diameter" : 0.225
+            },
+            {
+                "spine" : 380,
+                "weight" : 8.68,
+                "length" : 32,
+                "outer_diameter" : 0.220
+            },
+            {
+                "spine" : 410,
+                "weight" : 8.6,
+                "length" : 32,
+                "outer_diameter" : 0.216
+            },
+            {
+                "spine" : 450,
+                "weight" : 8.12,
+                "length" : 32,
+                "outer_diameter" : 0.209
+            },
+            {
+                "spine" : 500,
+                "weight" : 7.81,
+                "length" : 32,
+                "outer_diameter" : 0.207
+            },
+            {
+                "spine" : 550,
+                "weight" : 7.62,
+                "length" : 32,
+                "outer_diameter" : 0.205
+            },
+            {
+                "spine" : 600,
+                "weight" : 7.06,
+                "length" : 30,
+                "outer_diameter" : 0.201
+            },
+            {
+                "spine" : 650,
+                "weight" : 6.8,
+                "length" : 30,
+                "outer_diameter" : 0.197
+            },
+            {
+                "spine" : 700,
+                "weight" : 6.5,
+                "length" : 30,
+                "outer_diameter" : 0.194
+            },
+            {
+                "spine" : 750,
+                "weight" : 6.44,
+                "length" : 30,
+                "outer_diameter" : 0.193
+            },
+            {
+                "spine" : 830,
+                "weight" : 6.44,
+                "length" : 30,
+                "outer_diameter" : 0.192
+            },
+            {
+                "spine" : 900,
+                "weight" : 6.06,
+                "length" : 30,
+                "outer_diameter" : 0.191
+            },
+            {
+                "spine" : 1000,
+                "weight" : 5.5,
+                "length" : 30,
+                "outer_diameter" : 0.190
+            }
+        ],
+        "straightness" : [0.0015],
+        "inner_diameter" : 0.125,
+        "color" : "black carbon"
+    }
+]
